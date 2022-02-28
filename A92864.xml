@@ -1,0 +1,713 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Scripture a perfect rule for church-government delivered in a sermon at Margarets Westminster, before sundry of the House of Commons. By William Seigwich [sic] minister in Farnham in Essex. Published according to order.</title>
+            <author>Sedgwick, William, 1609 or 10-1669?</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 92 KB of XML-encoded text transcribed from 22 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92864</idno>
+            <idno type="STC">Wing S2388</idno>
+            <idno type="STC">Thomason E79_21</idno>
+            <idno type="STC">ESTC R12112</idno>
+            <idno type="EEBO-CITATION">99859211</idno>
+            <idno type="PROQUEST">99859211</idno>
+            <idno type="VID">111280</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A92864)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 111280)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 14:E79[21])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Scripture a perfect rule for church-government delivered in a sermon at Margarets Westminster, before sundry of the House of Commons. By William Seigwich [sic] minister in Farnham in Essex. Published according to order.</title>
+                  <author>Sedgwick, William, 1609 or 10-1669?</author>
+               </titleStmt>
+               <extent>[2], 38 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Ralph Smith at the signe of the Bible in Cornhill neare the Exchange,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[1643]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Date of publication from Wing.</note>
+                  <note>Annotation on Thomason copy: "Decemb: 28 1643".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England --  Government --  Sermons --  Early works to 1800.</term>
+               <term>Bible. --  O.T. --  Isaiah IX, 6 --  Sermons --  Early works to 1800.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-06</date>
+            <label>Holly Beeman</label>Sampled and proofread</change>
+         <change>
+            <date>2011-06</date>
+            <label>Holly Beeman</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:111280:1" rendition="simple:additions"/>
+            <p>SCRIPTVRE A PERFECT RVLE FOR CHVRCH-GOVERNMENT Delivered in a Sermon at <hi>Margarets Weſtminſter,</hi> before ſundry of the Houſe of <hi>COMMONS.</hi>
+            </p>
+            <p>By <hi>William Seigwich</hi> Miniſter in <hi>Farnham</hi> in <hi>Eſſex.</hi>
+            </p>
+            <p>Publiſhed according to Order.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Ralph Smith</hi> at the ſigne of the Bible in <hi>Cornhill</hi> neare the <hi>Exchange.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb facs="tcp:111280:2"/>
+            <pb n="1" facs="tcp:111280:2"/>
+            <head>SCRIPTVRE A PERFECT RVLE FOR CHVRCH-GOVERNMENT</head>
+            <epigraph>
+               <q>
+                  <bibl>Iſaiah 9.6.</bibl>
+                  <p>
+                     <hi>The Government ſhall be upon his ſhoulders.</hi>
+                  </p>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">T</seg>HE text is a Propheticall ſolemnity of the incarnation and inauguration of Chriſt, and ſets forth his birth and raigne, Chriſt in the wombe and on the throne. The ſecond is expreſt very fully, in a ſtately and lofty ſtile, apt and fit to the great<g ref="char:EOLhyphen"/>neſſe of the matter: every word ſwels with royall and Princely ex<g ref="char:EOLhyphen"/>cellencies, ſo full of evangelicall glory that the Septuagint were aſtoniſhed at the Majeſty of it, and therefore durſt not expreſſe it, but render it in their tranſlation veiled and ob<g ref="char:EOLhyphen"/>ſcured: but Chriſt by his comming hath expounded them to us, and we ſee them a very excellent, plaine, and full de<g ref="char:EOLhyphen"/>ſcription
+<pb n="2" facs="tcp:111280:3"/>of the Kingdome of the Lord Jeſus Chriſt, ſhewing to us.</p>
+            <p n="1">1. His regall office, to governe; <hi>the government.</hi>
+            </p>
+            <p n="2">2. The burthen and weight of this office, it was not <hi>honds,</hi> but <hi>onus,</hi> not a crowne upon the head, but the <hi>government upon his ſhoulders,</hi> the part imployed with bearing heavy and preſſing burthens.</p>
+            <p n="3">3. His propriety to it, it lay upon <hi>his</hi> ſhoulders alone; he had no helpe from others; he ſuffered and raignes alone.</p>
+            <p n="4">4. After this there comes a troope of titles ſetting forth thoſe royall graces which doe adorne &amp; aſſiſt the crowne of Chriſt.</p>
+            <p>The firſt ſhewing the nature and kind of this government; it is not an ordinary, vulgar, or a carnall kingdome, but <hi>won<g ref="char:EOLhyphen"/>derfull,</hi> myſterious: other ſtates have ſome myſteries in them, this is a ſtate of myſteries.</p>
+            <p>The ſecond ſhewes how it is aſſiſted with wiſedome and counſell, the great ſupport of ſtates; and that too within himſelfe, he needes not goe to others for it, and therefore the more faithfull and ſafe; he is <hi>the counſellour.</hi>
+            </p>
+            <p>The third title ſets forth his power: he is wiſe to preſcribe lawes, and as potent to execute them, able to defend his Lawes and Subjects in their obedience to thoſe Lawes; <hi>the mighty God.</hi>
+            </p>
+            <p>The fourth ſets forth his love: hee can doe all things, but his love limits him, and ſets his wiſedome and power on worke: his government is not tyrannicall but paternall, his Subjects are his children, he is <hi>the everlaſting Father.</hi>
+            </p>
+            <p>The fifth ſhewes the ſucceſſe of it: a government ſo well aſſiſted and compoſed muſt needes be very peaceable, <hi>the Print of peace.</hi>
+            </p>
+            <p>The ſixth ſhewes the continuance: what is peaceable will continue, warre either open or civill being the ruine of ſtates; <hi>and of his government ſhall be no end.</hi>
+            </p>
+            <p>We will take onely the head of all, the ſubject of theſe ex<g ref="char:EOLhyphen"/>cellent properties, <hi>the government.</hi> And concerning it obſerve but theſe conſiderations by way of explication of the text, and we ſhall draw up our concluſion to be inſiſted on.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Conſidera. </seg>1</label> That under this tearme of government is meant all
+<pb n="3" facs="tcp:111280:3"/>Chriſts power extending to internalls and externalls. By the firſt he rules internally in the Soules of men by grace and ho<g ref="char:EOLhyphen"/>lineſſe. By the ſecond he rules externally, the outward man together with the inward in his worſhip.</p>
+            <p>We omit the firſt, although the more excellent and glori<g ref="char:EOLhyphen"/>ous, and aime at the ſecond, as more ſeaſonable, the ex<g ref="char:EOLhyphen"/>ternall government. That this is here included as well as the former (beſide the extent of the word, reaching to all in which Chriſt exerciſes dominion) two acts of his govern<g ref="char:EOLhyphen"/>ment expreſſed verſ. 7. ſhew.</p>
+            <p n="1">1. He <hi>orders</hi> it, which is properly a right diſpoſing of things externally.</p>
+            <p n="2">2. To eſtabliſh it with <hi>judgement</hi> and <hi>juſtice,</hi> &amp;c. and an act of juſtice is properly <hi>ad extra:</hi> and therefore though it be not onely underſtood, it cannot be excluded, externall go<g ref="char:EOLhyphen"/>vernment.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Conſidera. </seg>2</label> Conſider that the text is evangelicall, and what was here promiſed we muſt expect it to be performed under the Goſ<g ref="char:EOLhyphen"/>pell.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Conſidera. </seg>3</label> That there is a twofold government. 1. Supreme, Lordly, legiſlative, unlimited. 2. Subordinate, inferiour, ſhut with<g ref="char:EOLhyphen"/>in bounds. By government here is meant the firſt, the pow<g ref="char:EOLhyphen"/>er of conſtituting Lawes, of ordaining and laying a govern<g ref="char:EOLhyphen"/>ment: for the ſecond may be and is in the Church-officers, but the firſt proper to Chriſt.</p>
+            <p>Theſe three conſiderations laid downe, the concluſion na<g ref="char:EOLhyphen"/>turally flowes from the text.</p>
+            <p>That Chriſt hath left or conſtituted an externall govern<g ref="char:EOLhyphen"/>ment, or a government in externalls for the Church under the Goſpell.</p>
+            <p>Before we come to the proofe of it, two things neede ex<g ref="char:EOLhyphen"/>plaining. 1. What the Church is that is the ſubject of this government. 2. What this government is, and what is the extent of it.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> Concerning a Church, the originall, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, was uſed to expreſſe civill Aſſemblies, any Congregation of men met together for a civill uſe,<note place="margin">Act. 19.32, 39, 40.</note> and is in Scripture taken ſometime in a good, ſometime in a bad ſenſe. It is uſed in ſpirituall
+<pb n="4" facs="tcp:111280:4"/>things variouſly.<note place="margin">Acts 19 32.39.40.</note> We will not trouble you with the ſeverall acceptions of the word Church in Scripture, but take it in its common and moſt ordinary uſe, and that which accords beſt with the originall uſe of it in the new Teſtament, It is a particular or congregationall Church, which is a ſimilar part of the Catholique, and hath the nature of the whole intire, <hi>viz.</hi> immediate fellowſhip with Chriſt, and right to all the ordinances.</p>
+            <p>The Church is viſible or inviſible; a diſtinction not of <hi>genus</hi> into ſeverall <hi>ſpecies,</hi> but of the ſubject into the ſeverall adjuncts; for the ſame Church may be and is viſible and in<g ref="char:EOLhyphen"/>viſible. We are to conſider of the Church onely as viſible, for ſo it is the ſubject of that government we are to ſpeake of, a viſible and externall body for an externall policy. It is ordinarily defined thus, to be a company of beleevers joy<g ref="char:EOLhyphen"/>ned together in the name of Chriſt to enjoy fellowſhip with God and each other in all Gods ordinances according to the word.</p>
+            <p>The matter of this Church muſt be Saints, <hi>faithfull men;</hi> ſuch whereof Chriſt may be the head:<note place="margin">Art. of Church of England 19.</note> they muſt all be mem<g ref="char:EOLhyphen"/>bers that make up a body, <hi>(i.)</hi> viſibly and in appearance. Theſe materials caſt into a viſible union knit together in one body: in Goſpel-order, whereby they are apt and fit for communi<g ref="char:EOLhyphen"/>on with God in holy things: and that in the name of Chriſt this is a Church called his <hi>houſe</hi> and <hi>family,</hi>
+               <note place="margin">Jun. de Eccl.</note> his <hi>City</hi> and <hi>Kingdome</hi> in Scripture.</p>
+            <p>I ſhall not need to ſpend much time in ſhewing what this Church is. It will conduce much to the buſineſſe in hand to prove that there is a viſible politicall Church whoſe government is diſtinct from the inviſible, inſtituted by Chriſt; And this will appeare,</p>
+            <p n="1">1. From the word Church, applied to particular con<g ref="char:EOLhyphen"/>gregations in many places of Scripture, to the Church of <hi>Corinth, Antioch,</hi> the ſeven Churches in <hi>Aſia.</hi>
+            </p>
+            <p n="2">2. 1 <hi>Cor.</hi> 15.24. The Apoſtle ſpeakes of a Kingdome to be delivered up to God at the laſt: which is not the inviſible Kingdome of grace, for that is perfected in the end, and ſo to continue for ever; nor the externall Kingdome of the
+<pb n="5" facs="tcp:111280:4"/>Jewes, that already is diſſolved: but this miniſteriall and evangelicall diſpenſation of ordinances: which agrees with that of the Apoſtle, <hi>Epheſ.</hi> 4.13. Thoſe offices and admini<g ref="char:EOLhyphen"/>ſtrations muſt ſtand till we all come in the unity of the faith, &amp;c. For as the comming of Chriſt in the fleſh aboliſhed the Leviticall Church, ſo the comming of Chriſt in glory ſhall thruſt out the evangelicall.</p>
+            <p n="3">3. <hi>Hebr.</hi> 12.28. <hi>Wherefore we receiving a Kingdome let us have grace, &amp;c.</hi> It cannot be meant of the internall, for that conſiſts in grace: the Apoſtle argues from this Kingdome to grace, which were abſurd if they were but one. The conſe<g ref="char:EOLhyphen"/>quence is not good any otherwiſe but thus, having a viſible and glorious Church, let us have grace to enter into it, and to walke worthie of it. And that the externall Church is meant, is apparent from the antitheſis that it hath with the Jewiſh Church, <hi>verſ.</hi> 18. <hi>&amp;c.</hi> For nothing is oppoſite to the externall Church under the Law, but an externall under the Goſpel.</p>
+            <p n="4">4. Many places in the Goſpel where Chriſt ſpeakes of this Kingdome to come can be meant of no other. <hi>Repent, for the Kingdome of Heaven is at hand.</hi>
+               <note place="margin">Matth. 4.11. &amp; 10.7.</note> Chriſt intending to ſet up his government, prepares materials, converts Saints. And <hi>Matth.</hi> 11.11. he compares the miniſtery of <hi>John</hi> with the miniſtery of the Goſpel, which he cals a Kingdome. <hi>He that is leaſt in the Kingdome, &amp;c. i. e.</hi> He that is the weakeſt Mini<g ref="char:EOLhyphen"/>ſter in the Church under the Goſpel is greater then <hi>John.</hi> And that Chriſt hath inſtituted ſuch a ſociety and Kingdome, ſuch a viſible Church, reaſons prove it.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> If there were not ſuch a Church, there would be no com<g ref="char:EOLhyphen"/>munion of Saints here on earth. That there is ſuch a com<g ref="char:EOLhyphen"/>munion the Scriptures are plentifull, it will be granted: the conſequent will appeare, if we conſider what communion is, it is an arct, cloſe, orderly, and profitable fellowſhip. For as in civill ſociety, that politicall vertue that is in a man is not exerciſed toward men in a crowd, for a man may be <hi>ſo<g ref="char:EOLhyphen"/>lus in civitate,</hi> alone in a multitude; to be politicall or in ſo<g ref="char:EOLhyphen"/>ciety, is to be united to families, Cities, Kingdomes. So this ſpirituall fellowſhip is not with Chriſtians as Chriſtians, nor
+<pb n="6" facs="tcp:111280:5"/>many Chriſtians within a ſame walls, but with Chriſtians united together in one body ſpirituall,<note place="margin">1 Cor. 12.20. Pſal. 122.3. Epheſ. 4.16.</note> and that rightly com<g ref="char:EOLhyphen"/>pacted and fitly joyned together, Miniſter and people, &amp;c. ſuch as are to exerciſe offices, and to adminiſter to each other. Now the reaſon why God would have ſuch a fellowſhip is,</p>
+            <p n="1">1. For himſelfe, that he might enjoy the perfection of mankind, which is men in ſociety: politicall is a ſtep above reaſonable. By this his ſervice is more rich and glori<g ref="char:EOLhyphen"/>ous, having the grace and ſtrength of many in one. <hi>That we may with one mind and one mouth glorifie God.</hi> It is a goodly and beautifull ſervice that is thus preſented to God,<note place="margin">Rom. 15.16.</note> and is ve<g ref="char:EOLhyphen"/>ry acceptable, as that Pſalme is interpreted, <hi>How good a thing it is for brethren to live together, &amp;c.</hi>
+            </p>
+            <p n="2">2. For us,<note place="margin">Pſal. 133.</note> there is as great neceſſity of communion in di<g ref="char:EOLhyphen"/>vine as civill things. Firſt, in reſpect of our weakneſſe. <hi>It is not good for man to be alone,</hi> was Gods judgement of man in innocency; and now man cannot be good alone. When we are as ſcattered Sheep the Lions will devoure us: while we are as eares of corne growing alone,<note place="margin">Jer. 50.17.</note> we ſhall be carried away with every wind of Doctrine: againſt which toſsings this is a remedy.<note place="margin">Epheſ. 4.14.</note> Church-fellowſhip having a Kingdome of ſinne and darkneſſe to fight with, we need the power of a Kingdome to reſiſt them. Secondly, in reſpect of our graces. God that gives us grace, gives us it <hi>to profit with.</hi> A man can<g ref="char:EOLhyphen"/>not be happy alone,<note place="margin">1 Cor. 12.7.</note> nor good alone: grace will fade and wi<g ref="char:EOLhyphen"/>ther if it want objects to worke upon, and is never ſo glori<g ref="char:EOLhyphen"/>ous as in propagation. God that hath given us grace, hath given it for others as to our ſelves; as a faculty in a member is for the whole body: the eye ſees for all, the eare heares for all, &amp;c. And therefore there is a neceſsity of communi<g ref="char:EOLhyphen"/>on, and ſo neceſſary there ſhould be a Church.</p>
+            <p>There muſt be a Church that there may be ordinances. For clearing this, conſider but theſe two things. 1. That a Church is a chiefe ordinance; 2. That the Church ſanctifies and upholds all other ordinances.</p>
+            <p>Firſt, that it is the chiefe ordinance. It is Gods Temple under the Goſpel,<note place="margin">1 Pet. 2.5. Heb. 3.6.</note> called his building, and houſe, therefore the greateſt.</p>
+            <p n="1">1. Compare it with the Temple under the Law in whoſe
+<pb n="7" facs="tcp:111280:5"/>place it comes, and under which this is prophecyed of famili<g ref="char:EOLhyphen"/>arly in the Prophets: that was the greateſt under the Law, ſo this under the Goſpell.</p>
+            <p n="2">2. Compare it with the ſubſtance, Chriſts body, which is the Temple of all worſhip. <hi>Deſtroy this Temple. In whom the God-head dwels bodily.</hi>
+               <note place="margin">Joh 2.19. Col 2.9.</note> That which ſerves to ſo high a uſe as to repreſent Chriſt, and in the maine worke of Chriſt to bring us into the preſence of God, muſt needes be the greateſt.</p>
+            <p n="3">3. It is fulleſt of Chriſt, many beleevers ſhining with the graces of Gods Spirit, each having ſome of the divine nature, all united in one body. It ſets forth the glory of God, and in them Chriſt is compleate; ſo full of Chriſt that it obtaines the name of Chriſt.</p>
+            <p n="4">4. Other Ordinances were made for the Church, not the Church for them: <hi>Man was one made for the Sabbath, but the Sabbath for Man;</hi> ſo other ordinances for the Church. There<g ref="char:EOLhyphen"/>fore as under the Law the Temple was greater then the gold of the Temple, ſo the Church is greater then the Ordi<g ref="char:EOLhyphen"/>nances of the Church.<note place="margin">1 Cor. 11.12.</note>
+            </p>
+            <p>Secondly, other Ordinances ſubſiſt not but in the Church. The miniſtery of the word; a ſteward is not a ſteward but to a houſe, a Paſtor is not a Paſtor but to a flocke. <hi>How can a man Preach except he be ſent? Rom.</hi> 10.14, 15. and a true miſ<g ref="char:EOLhyphen"/>ſion doth require an externall call. Diſcipline is not exer<g ref="char:EOLhyphen"/>ciſed but in the Church;<note place="margin">1 Cor. 5.12.</note> 
+               <hi>What have I to doe judge them that are without?</hi> The Churches cenſures reach not till they be within the Church, the keyes are nothing without a King<g ref="char:EOLhyphen"/>dome. All the Ordinances and Sacraments, they are not due to Chriſtians as Chriſtians, nor as members of the Ca<g ref="char:EOLhyphen"/>tholike, but to Chriſtians in ſociety, in relation, miniſters and People: therefore there is and muſt be an externall and viſible Church diſtinct from the internall. And hence it is that there are diſtinct callings to the internall and exter<g ref="char:EOLhyphen"/>nall Church. 1 <hi>Cor.</hi> 1.2. He writes there <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, which is a company called out; and afterward <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>called to bee Saints,</hi> a calling <hi>ſeperatim,</hi> and a calling <hi>conjunctim,</hi> as <hi>Junius,</hi> and <hi>verſ.</hi> 9. <hi>called to the fellowſhip of the Saints.</hi> Ex<g ref="char:EOLhyphen"/>poſitors obſerve a double calling from the words. One to
+<pb n="8" facs="tcp:111280:6"/>be members of Chriſt and of the invi<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ble Church; and ano<g ref="char:EOLhyphen"/>ther of a particular Church: to beleeve, and to be added to the Church. So that as a man is conſidered as <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, and as <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, as <hi>reaſonable,</hi> and as <hi>politicall;</hi> ſo a Chriſtian may be conſidered as a Chriſtian or member of Chriſt, and as a member of a viſible Church. We have, beene large in this, being a ſpeciall meanes to cleare the whole truth: and the ig<g ref="char:EOLhyphen"/>norance of this cauſeth much miſtake in the world about Church-matters.</p>
+            <p>The ſecond thing to be explained is the government of this Church. Being a Kingdome, or City, or Family, it muſt have a policy; being not a worldly but a ſpirituall Kingdome, it muſt have a ſpirituall policy; and being a vi<g ref="char:EOLhyphen"/>ſible Kingdome, it muſt have a viſible policy: ſuch as the bo<g ref="char:EOLhyphen"/>dy is, ſuch muſt be the government of it. To ſhew what this is,</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> For the name, the Apoſtle helps us to a very apt one, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>,<note place="margin">Epheſ: 2 14.</note> 
+               <hi>the policy of Iſrael:</hi> and what that is the Philoſo<g ref="char:EOLhyphen"/>pher tels us, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, it is <hi>order,</hi> the word uſed here, <hi>verſ.</hi> 7. and <hi>Col.</hi> 2.5. their <hi>faith</hi> and <hi>order.</hi> So that by government we underſtand, that order left by Chriſt to the Church for the adminiſtring of Church affaires or holy things.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> For the extent of it, we take it in the largeſt ſenſe; not onely for that part of government called commonly diſci<g ref="char:EOLhyphen"/>pline, or juriſdiction, or the power of one over another, &amp;c. but more largely, for the whole ordering of the Church in all Church-affaires. All are reduced to theſe two heads.</p>
+            <p n="1">1. The order of the parts of the body,<note place="margin">1 Cor. 12.14.</note> called the <hi>tempering of the body,</hi> a right diſpoſition of the parts every one in their place; Paſtors, and Elders, and Deaeons, every one in their ranks.</p>
+            <p n="2">2. The order of the adminiſtrations and ſervices of theſe parts to God and to each other, as Prayer, Word, Sacra<g ref="char:EOLhyphen"/>ments, Diſcipline, and all the holy things of God. And that we take in the largeſt ſenſe too, including the matter and manner; for both come within this policy: Chriſt com<g ref="char:EOLhyphen"/>mands the things themſelves, and the rites and ceremonies belonging to them. For,</p>
+            <pb n="9" facs="tcp:111280:6"/>
+            <p n="1">1. Chriſt would not ordaine ordinanecs, and leave, them confuſed, imperfect, and halfe compoſed, and ſubject them to humane skill to receive their forme and beauty.</p>
+            <p n="2">2. All things that God made in the world were perfect, and every creature brought its ſhape into the world with ac<g ref="char:EOLhyphen"/>cidents ſutable to its being; and ſure God would not leave his holy ordinances and this ſecond and more glorious world of the Church imperfect.</p>
+            <p n="3">3. If man were to preſcribe the manner man had (<hi>i.e.</hi> to command that we ſhould injoy them in their manner or not at all) a negative voice, which is a greater power then God ever left man in his owne ordinances to admit and refuſe.</p>
+            <p n="4">4. Chriſt hath left rules for them; not onely for Preaching, but by whom, and to whom; ſo in Baptiſme and the Sup<g ref="char:EOLhyphen"/>per, how they ſhould be adminiſtred and to whom, onely admit of this diſtinction. Some things, viz. ſuch as are religious, and immediately and particularly belong to the na<g ref="char:EOLhyphen"/>ture of the things themſelves, are peculiarly commanded: ſuch as are more remote, as naturall and civill things, are on<g ref="char:EOLhyphen"/>ly in generall rules preſcribed. How theſe are diſtinguiſhed, we ſhall ſee hereafter.</p>
+            <p>For the extent of this government we ſhall lay theſe two grounds.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> Firſt, for all internals, Chriſt hath laid downe ſome inter<g ref="char:EOLhyphen"/>nals, both perſons and things. As</p>
+            <p n="1">1. For matters of Doctrine, and faith, and inward ſan<g ref="char:EOLhyphen"/>ctification, there are Word, Sacraments, and Paſtors and Teachers to adminiſter them.</p>
+            <p n="2">2. For matters of converſation, there is watching, admo<g ref="char:EOLhyphen"/>nition, &amp;c. for which there are Elders to joyne with the former, as <hi>helps of government.</hi>
+            </p>
+            <p n="3">3. For matters of charity, there is collecting and diſtribu<g ref="char:EOLhyphen"/>ting of Almes, and for that are Deacons appointed. For theſe externalls are as the barke of a tree, or as a vaine in which the bloud runnes, in theſe the inward life of grace is conveyed, and to theſe three heads are they by Authors reduced.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> Secondly, that Chriſt hath laid downe all externals that are for the good of the Church. That's the property of a
+<pb n="10" facs="tcp:111280:7"/>good Law, to containe all and leave nothing to the Judge but the interpreting of ſuch Lawes and the executing of them. Chriſt the King of his Church hath made as many Canons as need: all that is left for the Church is to execute theſe rules, and in caſes of doubt or difficulty to draw out the rule to particular occaſions. Or, to conclude this point, the go<g ref="char:EOLhyphen"/>vernment laid downe by Chriſt, is <hi>ordinances of divine ſervice,</hi> or a liturgy, a compleat way of ſerving the Lord in all his ordinances, ſo called, <hi>Hebr.</hi> 9.1.</p>
+            <p>Having explained theſe two maine termes, we proceed to prove the point. The point will be ſufficiently proved in de<g ref="char:EOLhyphen"/>monſtrating theſe five propoſitions.</p>
+            <list>
+               <item>1. That it is neceſſary there ſhould be a government of ſuch an extent, with all the rites and ceremonies belonging unto it.</item>
+               <item>2. That it is neceſſary that Chriſt himſelfe ſhould pre<g ref="char:EOLhyphen"/>ſcribe it.</item>
+               <item>3. That Chriſt hath actually done it, and that ſufficiently.</item>
+               <item>4. That this government ſo commanded is perpetuall.</item>
+               <item>5. That neither the Church, nor any other hath power to alter any part of it, or to adde any thing to it.</item>
+            </list>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Propoſ. </seg>1</label> Firſt, It is neceſſary there ſhould be ſuch a government, ſhewing the perſons, adminiſtrations, with the rites and ce<g ref="char:EOLhyphen"/>remonies belonging to them.</p>
+            <p n="1">1. Neceſſary by the Law of nature to the Goſpel as a Re<g ref="char:EOLhyphen"/>ligion: for there never was a Religion without ſuch. The Aegyptians, Romans, Turks, had their Prieſts, Temples, Rites belonging to them, and ſhall Chriſt be defective in that which even nature requires? Nature requires ſome, Chriſt preſcribes what.</p>
+            <p n="2">2. Neceſſary by the naturall Law, by the ſecond Com<g ref="char:EOLhyphen"/>mand. The affirmative part of a command is of the ſame na<g ref="char:EOLhyphen"/>ture with the negative, the negative denies externall deviſed manners of worſhip, therefore the affirmative requires a form of Gods deviſing. The Jewiſh ceremonies did append to the ſecond Command. With out a preſcribed forme the Law is imperfect, therefore there muſt neceſſarily come a Law of ſer<g ref="char:EOLhyphen"/>vice in the place of that which is aboliſhed, to ſupply the
+<pb n="11" facs="tcp:111280:7"/>roome of it: for till that be added, a rule of externall wor<g ref="char:EOLhyphen"/>ſhip, the command binds in affirmatives but potentially, <hi>viz.</hi> to worſhip God in his owne way when he ſhould preſcribe it.</p>
+            <p n="3">3. Neceſſary to our natures conſiſting of ſoule and body, both created by God and redeemed by him,<note place="margin">1 Cor. 6. <hi>ult.</hi>
+               </note> therefore God muſt be worſhipped by both.</p>
+            <p n="4">4. Neceſſary to t<gap reason="illegible" resp="#UOM" extent="2+ letters">
+                  <desc>••…</desc>
+               </gap> Church as a Kingdome or City, for policy is <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>the life of a City:</hi> and without a Law for officers, and duties and bounds and limits for them, it is anan<g ref="char:EOLhyphen"/>archy, not a policy. Chriſt ſhould leave a miſerable City with<g ref="char:EOLhyphen"/>out a policy.</p>
+            <p n="5">5. Neceſſary to the Church as viſible and externall: for being viſible, it muſt have ſomething viſible to knit it to the head, Chriſt. For as the inviſible is knit to Chriſt by faith, ſo is the externall united to Chriſt by theſe externall things: neither is there any meanes, any ligaments to ty the body to the head, or the members to each other externally, but theſe preſcribed by Chriſt. The Apoſtle, <hi>Coloſ.</hi> 2. being to deale upon this ſubject againſt humane impoſitions and will-worſhip, he brings his maine argument from Chriſt and our union to him; which were no argument if theſe did not knit us to Chriſt, <hi>verſ.</hi> 7. <hi>we are rooted</hi> and built on him. By theſe we are knit, as the tree to the root, not onely by the body, but by the barke. And <hi>verſ.</hi> 19. they that ſet up any o<g ref="char:EOLhyphen"/>ther worſhip or order then that which Chriſt preſcribes, they <hi>hold not the head,</hi> they quit Chriſt; which ſets a high price upon theſe things, and makes them neceſſary. By them the Church doth immediately cloſe with Chriſt, and in them the fulneſſe of Chriſt is ſeene, and the life of Chriſt convey<g ref="char:EOLhyphen"/>ed, and therefore neceſſary as nerves and ſinews to the body.</p>
+            <p n="6">6. It is a neceſſary part of the Goſpel: by the Apoſtle ac<g ref="char:EOLhyphen"/>counted a principle, and a fundamentall one, <hi>Hebr.</hi> 6.2. ſet<g ref="char:EOLhyphen"/>ting downe the principles, he counts this as one, <hi>laying on of hands,</hi> which is a part of this externall policy, a ceremo<g ref="char:EOLhyphen"/>ny belonging to ordination; and if a part be fundamentall, then the whole is. I am not ignorant, that ſome interpreters carry this another way, <hi>viz.</hi> for confirmation: but there is little reaſon for it.</p>
+            <pb n="12" facs="tcp:111280:8"/>
+            <p n="1">1. Becauſe confirmation is not commanded in any one Scripture but this, and therefore not likely to be a principle in Religion that hath footing but in one text.</p>
+            <p n="2">2. Confirmation hath nothing fundamentally diſtinct from baptiſme being but to confirme the ſame, and not to adde any thing new.</p>
+            <p>Some eſteeme it exegeticall, as an <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>poſition of baptiſme going before: but that were not agreeable to the Apoſtles intent, being to ſet downe a briefe epitome of the principles of Religion. Yea <hi>laying on of hands,</hi> is more darke then <hi>bap<g ref="char:EOLhyphen"/>tiſme,</hi> and therefore cannot be an expoſition of it. There<g ref="char:EOLhyphen"/>fore it is meant of that laying on of hands in 1 <hi>Tim.</hi> 4.14. and 5.22. &amp;c. a part of ordination. So not onely the Sacra<g ref="char:EOLhyphen"/>ments, but miniſtery, calling, ordaining with the ceremonies of them are fundamentals of the Goſpel. Doe not miſtake mee, I count them not abſolutely neceſſary to ſalvati<g ref="char:EOLhyphen"/>on; For, <hi>he that beleeveth ſhall be ſaved.</hi> Nor are they all ne<g ref="char:EOLhyphen"/>ceſſary to the being of a Church; a Church may ſubſiſt with<g ref="char:EOLhyphen"/>out part of them; a Church gathering and beginning, or a Church in perſecution, or a Church corrupted and lame, and declining, may be a true Church without ſome of them: but neceſſary they are <hi>neceſſitaee praecepti,</hi> as a rule for every Church to walke by, and to the <hi>bene eſſe</hi> of a Church. They are neceſſary with the ſame neceſſity as the Leviticall rites were to the Jewes, they were bound to performe them, and incomplete in the want of them: but when they were in <hi>Ba<g ref="char:EOLhyphen"/>bylon</hi> and deprived of them, or through negligence had loſt them, yet then they were a Church: So is it in theſe things under the Goſpel. But being neceſſary ſo many wayes, ei<g ref="char:EOLhyphen"/>ther Chriſt hath left them for his Church, or elſe he hath not left all things neceſſary.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Propoſ. </seg>2</label> It is neceſſary they ſhould be laid downe by Chriſt, none elſe can be the author of them.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> Becauſe he is the onely Lord of his Church, 1 <hi>Cor.</hi> 12.5, 6. <hi>Many miniſtrations, but one Lord.</hi> The onely husband of the Church, and Law-giver, the onely captaine, head, King; and therefore the Church ought, not to ſubject hen ſelfe to any but Chriſt:<note place="margin">Iſa. 33.22. Jam. 4.12.</note> ſhe is his Spouſe, and ſo not <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, not to be
+<pb n="13" facs="tcp:111280:8"/>her owne rule, nor may any other lord it over her.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> Chriſt onely gives the being to the Church,<note place="margin">Jun. de Eccl.</note> the being of the Church is relative, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>two or three gathered together in the name of Chriſt,</hi> and therefore from him onely can come the operations of that being: all the actions flow from the form, <hi>Quod dat eſſe dat operari:</hi> and therefore the eſſence of the Church being divine, all that the Church doth as a Church muſt be divine. <hi>In relatione hac magnified omnia divina,</hi>
+               <note place="margin">
+                  <hi>Jun.</hi> in Pſal. 122.</note> In this divine relation all things are divine. And the ſame Au<g ref="char:EOLhyphen"/>thor, <hi>Quicquid tangit, audit, &amp;c.</hi>
+               <note place="margin">Id. ibid.</note> Whatſoever the Church touches, heares, ſees, enjoyes, ought to be divine.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="3"/> The things themſelves are ſuch as none but Chriſt can be the Author of them. The Apoſtle gives a right character of worſhip, <hi>Rom.</hi> 12.1, 2. That it is meant of ſervice or wor<g ref="char:EOLhyphen"/>ſhip, the laſt word of the firſt verſe ſhewes. That it is exter<g ref="char:EOLhyphen"/>nall, we ſee in the ſequell of the chapter:<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> the Apoſtle is upon Church-officers, and their manners of adminiſtration. In the verſe there is <hi>ſacrificing,</hi> an externall rite, and that of the <hi>body.</hi> So that it muſt be underſtood of externall worſhip, that can<g ref="char:EOLhyphen"/>not be excluded. Of this he required it ſhould bee,</p>
+            <p n="1">1. <hi>Living;</hi> being to ſerve the living God, it muſt not be dead ſervice, there muſt be nothing dead in it. And therefore of Chriſt, for no man can give naturall life, much leſſe ſpiri<g ref="char:EOLhyphen"/>tuall. It is the word that quickens. Man may ſhape a ſervice, but he cannot give life unto it, it will be vaine and dead.</p>
+            <p n="2">2. It muſt be <hi>holy;</hi> now nothing that is holy can come from man that is uncleane; none but Chriſt can ordaine holy things: the things in themſelves muſt bee holy, whatſoever infirmity be in the doing them. He that erres in the weake performing them, erres in the doing of his duty; but he that invents ſome of his owne, erres more then he needs; what we invent we muſt juſtifie; Chriſt will warrant no more then he commands, what his wiſdome commands, his righteouſneſſe ſhall make good. Therefore the Pope to make good his authority in enjoyning Church-matters, claimes an unerring faculty, and ſo he had need.</p>
+            <p n="3">3. It muſt be <hi>acceptable to God,</hi> and therefore according to his owne minde, as in the ſecond verſe: now who knowes
+<pb n="14" facs="tcp:111280:9"/>the minde of the Father, but the Sonne? or what doe we know of God more then is written? Therefore Chriſt one<g ref="char:EOLhyphen"/>ly is able to preſcribe ſuch ſervice as God would have, living, holy, acceptable, and conſequently able onely to preſcribe a policy in his Church. And ſure he did what belonged to him to doe.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Propoſ. </seg>3</label> Chriſt hath actually done it.</p>
+            <p>You will ſay, here is the great worke, prove this and we have done. We might prove it undeniably by producing the particulars, and ſet them up before you: And if I ſhould, you would ſay as the Jewes ſaid of Chriſt, <hi>He hath done all things well,</hi> he hath well provided for the government of the Church, and that it is ſo perfect, it needes no addi<g ref="char:EOLhyphen"/>tion. But that were a taske neither befitting the time, nor my weakneſſe. I ſhall labour according to my power to prove there is one; and then I hope you in whoſe hands the worke lyes, will employ more able men to finde it out. It will be ſo full and ſatisfactory, that no man will finde a place to adde any thing to it, and therefore the beſt confutation of humane policy. The Epiſtle to the Hebrewes being well ſearched will afford aboundant proofes, it being the maine buſineſſe of the Epiſtle to perſwade them to leave the Jewiſh Ordinances, and to accept the Ordinances of the Goſpell that came in the place of them: note this through that E<g ref="char:EOLhyphen"/>piſtle. The government of the Goſpell is ſaid to be a <hi>better Teſtament,</hi> and a <hi>more perfect Covenant.</hi> It is not meant of the internall, for that is the ſame, Chriſt yeſterday, to day, and for ever; but of the externalls that were brought in new, they are ſaid to be better.</p>
+            <list>
+               <item>1. In their uſe, they preſent Chriſt to the Soule more live<g ref="char:EOLhyphen"/>ly and clearely, more feelingly and ſpiritually, more fully and abundantly.</item>
+               <item>2. In their end, they end in heaven, the comming of Chriſt to glory; whereas they of the Law had their period in the grave of Chriſt.</item>
+               <item>3. In themſelves, this is a more perfect Teſtimony; the rites being fewer, the queſtions and controverſies are not ſo many as did ariſe concerning the legall ceremonies.</item>
+            </list>
+            <pb n="15" facs="tcp:111280:9"/>
+            <p>Firſt, A Plaine place it <hi>Heb.</hi> 7.12. <hi>There being a change of the Prieſt-hood, there is neceſſarily a change of the Law.</hi> The Ba<g ref="char:EOLhyphen"/>ſis of that text is this, that a Prieſt-hood and Law are inſepa<g ref="char:EOLhyphen"/>rable, and indiſſolubly united.<note place="margin">Cornel. a Lap. in loc.</note> Every Prieſt-hood muſt have precepts, promiſes, puniſhments and ceremonies annex-to it; It muſt be ſo or elſe theſe holy things whereof he is a Prieſt, muſt needes ſuffer prophanation. That which he infers is this; the old Prieſthood is aboliſhed, and we have a new, to wit, Chriſt the High Prieſt, and Servants under him: (we confeſſe there is not under the Goſpell an expiatory Prieſt, or a Prieſt of interceſſion, but Chriſt, but an Eucha<g ref="char:EOLhyphen"/>riſticall and of oblation, which is nothing but a Steward or Miniſter of holy things.) Having a new Prieſt-hood we muſt have a new law, the old Law will not ſerve a new Order, we muſt have a new one, and ſuch a new one as was the old: that aboliſhed contained Ordinances, Sacraments, Rites, ſo muſt the new. The ſumme is this, the Apoſtle would prove, that <hi>Moſes</hi> and <hi>Aaron</hi> are met together in one Chriſt; for he is not onely a Prieſt as <hi>Aaron,</hi> but a Law-giver as <hi>Mo<g ref="char:EOLhyphen"/>ſes,</hi> he did both their workes; a <hi>High-prieſt</hi> to ſucceed <hi>Aaron,</hi> and an <hi>Apoſtle</hi> to ſucceed <hi>Moſes,</hi> as <hi>Heb.</hi> 3.1. they are joy<g ref="char:EOLhyphen"/>ned together: hee is <hi>Aaron</hi> in ſacrificing, and <hi>Moſes</hi> in pre<g ref="char:EOLhyphen"/>ſcribing Lawes for holy adminiſtration.</p>
+            <p>Secondly, There is a plaine place, <hi>Heb.</hi> 3.2, 3, &amp;c. common<g ref="char:EOLhyphen"/>ly urged to this purpoſe, where the Apoſtle compares the faithfulneſſe of Chriſt and <hi>Moſes.</hi> To inforce it, conſider,</p>
+            <list>
+               <item>1. That their faithfulneſſe was both in <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>conomy or homhold government, one as a Servant, the other as an owner, and this cannot be without externall policy.</item>
+               <item>2. Their faithfulneſſe is compared in thoſe things where<g ref="char:EOLhyphen"/>in they differ, and ſo it is more effectuall. Chriſt was not faithfull onely in laying downe that which <hi>Moſes</hi> did, <hi>viz.</hi> doctrine and internalls, but <hi>Moſes</hi> was faithfull in ſetting downe his legall ſervice, Chriſt in ſetting downe his evange<g ref="char:EOLhyphen"/>licall ſervice.</item>
+            </list>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Object. </seg>
+               </label> Some object, that there was no government committed to Chriſt as the patterne of the Arke was to <hi>Moſes.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Sol. </seg>
+               </label> It was committed to him here in the text in generall, al<g ref="char:EOLhyphen"/>though
+<pb n="16" facs="tcp:111280:10"/>not in the particulars of it, God laid the government upon his ſhoulder, that he might appoint one in his Church. And in this text (<hi>Heb.</hi> 3.2.) by commiſſion and deſignati<g ref="char:EOLhyphen"/>on of the Father: He was faithfull to him that appointed him: and by nature, verſ. 6. he is the owner, the Father of the family, and therefore the government of the family is naturally in him: naturally government is ſeated in the Fa<g ref="char:EOLhyphen"/>ther, and ſo in Chriſt: Chriſt ſayes he delivered <hi>what be had heard and ſeene,</hi> and what <hi>he had received of the Father.</hi> Therefore could not Chriſt bee as faithfull as <hi>Moſes,</hi> if he had not preſcribed and laid downe a government for his Church.</p>
+            <p n="3">3. If we have ſo many externalls as doe make an Image of Chriſt, and repreſent Chriſt to the Soule, we have a ſuffi<g ref="char:EOLhyphen"/>cient platforme in Scripture, but we have ſuch an Image. <hi>Heb.</hi> 10.1. <hi>For the Law being a ſhadow of good things to come, and not the very image of the things.</hi> There are three things ſpoken of.<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> 1. The <hi>good things</hi> themſelves, the truth, the ſubſtance, which is Chriſt and thoſe mercies that flow from him.<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> 2. There is <hi>a parte ante, a ſhadow,</hi> or a rude inperfect picture, ſuch as painters draw with a coale. And 3. <hi>à parte poſt,</hi>
+               <note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> 
+               <hi>an Image,</hi> a more lively and compleate repreſentation of them: which Image is in externalls, (for internalls are part of <hi>the good things</hi>) and it is compoſed of the whole po<g ref="char:EOLhyphen"/>licy of the Church, all the adminiſtrations thereof. As the <hi>ſhadow</hi> included all under the Law, ſo the <hi>Image</hi> all under the Goſpell, Word, Sacraments, and Ceremonies annexed to them. The Apoſtle expreſſeth the miniſtration externall under the Goſpell in this manner, 1 <hi>Cor.</hi> 13.12. Having ſpoken of the Church and all her gifts and operations, he ſaith, Wee ſee Chriſt <hi>as in a glaſſe, i. e.</hi> they doe repreſent the image of Chriſt. So 2 <hi>Cor.</hi> 3.18. ſpeaking in the former part of the Chapter of the miniſtery of the Goſpell, uſes the ſame expreſſion. And theſe externalls being an image, they muſt belong and appertaine to the ſecond Commandement, and are a part of it. Give me leave for the clearing this truth, and the vindicating the ſecond command, to digreſſe a little. We ſhall find in Interpreters that there are two things for<g ref="char:EOLhyphen"/>bidden
+<pb n="17" facs="tcp:111280:10"/>under the name of an Image in the ſecond Command. Firſt, that great Idolatry then in uſe among the Gen<g ref="char:EOLhyphen"/>tiles, worſhipping of an Image. And ſecondly, all feigned and deviſed wayes of worſhip: as in other commands, viz. The ſeventh forbids adultery and all wantonneſſe, laſciviouſ<g ref="char:EOLhyphen"/>neſſe, &amp;c. and things conducing thereunto. And as two things forbidden, ſo two things commanded.</p>
+            <p>Fir<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t, The firſt is Chriſt, the ſumme of that command: it is <hi>Zanchies</hi> opinion, and there is good reaſon for it.</p>
+            <list>
+               <item>1. Becauſe he is the true and expreſſe Image of the Father, <hi>H<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>b.</hi> 1.3. <hi>Col.</hi> 1.15.</item>
+               <item>2. He is the onely <hi>medium</hi> of worſhip. In him the Father is found. He is the Way, the Truth, and the Life:<note place="margin">2 Cor. 5.18. Phil. 2.10.</note> and in him ſhall every knee bow; <hi>i. e.</hi> all worſhip muſt be done by Chriſt and in his name, to the Father by men and An<g ref="char:EOLhyphen"/>gells.</item>
+               <item>3. Becauſe of that diametricall oppoſition that is in Scrip<g ref="char:EOLhyphen"/>ture betwixt Chriſt and all falſe worſhip,<note place="margin">Gal. 1.6. Col. 2.8.</note> often in the old and new Teſtament.</item>
+               <item>4. From the ſtrong fence ſet about this command; Gods jealouſie, his greateſt, hotteſt, and moſt implacable rage: God will propagate his wrath to the third and fourth gene<g ref="char:EOLhyphen"/>ration, count them haters of him that break it, and eſteeme them to love him that keepe it, and binds himſelfe to thou<g ref="char:EOLhyphen"/>ſands that obſerve it. God doth not uſe to lay ſuch words upon matters of ſmall moment: there is ſomething more in it then ordinary, and what can that be but Chriſt?</item>
+            </list>
+            <p>Secondly, but there is a ſecond Image commanded, and that is that externall worſhip preſcribed by Chriſt. As the way preſcribed by Antichriſt is called <hi>the Image of the beaſt,</hi>
+               <note place="margin">Rev. 13.14, 15</note> ſo the way preſcribed by Chriſt is his Image, which is that we have ſpoken of; and is meant in this, <hi>Heb.</hi> 10.1. So that having an Image, ſuch externalls as doe repreſent Chriſt fully, we neede no more, but ſuch an Image we have.</p>
+            <p>A fourth proofe is in <hi>Act.</hi> 1.3. ſpeaking of thoſe forty dayes after the reſurrection of our Saviour, he ſaith, in them he taught them <hi>all things belonging to the Kingdome of God.</hi> To parallel this with the forty dayes that <hi>Moſes</hi> was in the
+<pb n="18" facs="tcp:111280:11"/>mount with God would little helpe us, (you may thinke) we neede it not. That by the Kingdome of God is here meant that viſible Kingdome that we have ſpoken of, is apparent.</p>
+            <p n="1">1. From conſent of other Scriptures, wherein we ſhall finde that Chriſts great buſineſſe after his reſurrection was ordaining of Miniſters,<note place="margin">Matth 28.18. Ma k. 16.</note> diſpatching their commiſſions, pre<g ref="char:EOLhyphen"/>ſcribing them rules for that purpoſe.</p>
+            <p n="2">2. Becauſe the Apoſtle treating of things of this nature, 1 <hi>Cor.</hi> 14.37. challenges this honour to his rules that they were <hi>Commandements of the Lord:</hi> how did the Lord command them? not by writing extant in the old or new Teſtament, nor by ordinary revelation or inſpiration; for in another caſe in that Epiſtle, giving rules for married Eſtates, and reſolving ſome doubts ſaith,<note place="margin">
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Cor. 7 12.</note> 
+               <hi>This ſpeake I, not the Lord, i. e.</hi> not the Lord in any part of the word then written, but I, not as a private perſon, but as inſpired by the Holy Ghoſt. There<g ref="char:EOLhyphen"/>fore calling them the Commandements of the Lord, he muſt need meane thoſe orders left by Chriſts mouth to the A<g ref="char:EOLhyphen"/>poſtles for the ordering of the Church, and which by them were to be derived to the Church.</p>
+            <p n="3">3. That which helpes to confirme this, is, that Chriſt did but rarely touch upon this point of his government in his life, but taught matters of faith and holineſſe of life. The reaſons were,</p>
+            <list>
+               <item>1. He was but <hi>a Miniſter of the circumciſion,</hi>
+                  <note place="margin">Rom. 15 8.</note> and therefore would not preſcribe Lawes as a King.</item>
+               <item>2. The old government was not aboliſhed: and to teach a new before the old was diſplaced would have cauſed a con<g ref="char:EOLhyphen"/>fuſion and rent in the Church: he tooke away the old, that he might ſet up the new.<note place="margin">Heb. 10.9.</note>
+               </item>
+               <item>3. The people were not fit for this new government: hee would not put this new wine into old bottles; he therefore prepares them by the doctrine of repentance for it.</item>
+               <item>4. His Kingdome was to be laid in bloud: he muſt firſt triumph on the Croſſe, and then on the Throne, and there<g ref="char:EOLhyphen"/>fore he ſpake Prophetically of his government, of his king<g ref="char:EOLhyphen"/>dome to come.<note place="margin">Matth. 28.8.</note> After his reſurrection he ſaith, <hi>All power is committed to me in heaven and earth; now goe teach all Nations;</hi>
+                  <pb n="19" facs="tcp:111280:11"/>therefore he left this part of his doctrine, till this ſeaſon af<g ref="char:EOLhyphen"/>ter his reſurrection.</item>
+            </list>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="5"/> There is a fifth proofe, <hi>Rom.</hi> 12.1. That he ſpeakes of out<g ref="char:EOLhyphen"/>ward worſhip hath beene proved already: concerning this he requires it ſhould be <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, both words prove a forme preſcribed in the word.</p>
+            <p n="1">1. It muſt be <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>ſervice,</hi> and therefore commanded; for there can be no other reaſon given of ſervice to God but his commanding of it. <hi>Obedience is better then Sacrified.</hi>
+               <note place="margin">1 Sam. 15.</note> Obe<g ref="char:EOLhyphen"/>dience makes Sacrifice acceptable, and when Sacrifice is with<g ref="char:EOLhyphen"/>out obedience, God diſclaimes it; <hi>Sacrifice thou wouldeſt not.</hi>
+               <note place="margin">Pſal. 40.</note> Nor can there be imagined a reaſon why God ſhould favour any ſervice, but becauſe God commands us to bring it him; there being no reaſon why God ſhould require ſervice, but that we might ſhew our obedience. Not becauſe he needs them; <hi>rivers of oyle,</hi>
+               <note place="margin">Mic. 6.7, 8</note> 
+               <hi>the beaſts of a thouſand mountaines are no<g ref="char:EOLhyphen"/>thing to him.</hi> Nor becauſe they are beautifull; there is nothing beautifull but himſelfe, and that which comes from him; God is not taken with glory. Nor becauſe it is chargeable to thee: if it be thy body to be burnt, he cares not, if it be not commanded: worſhip not required is no worſhip.</p>
+            <p n="2">2. This ſervice muſt be <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, it is tranſlated, <hi>reaſonable;</hi> this tranſlation will helpe us ſufficiently; for what can be reaſonable in ſpirituall things but <hi>mens Chriſti,</hi> that is <hi>vera ratio,</hi> the rule of reaſon: neither may we thinke any thing reaſonable in divinity, but that which is according to the principles of divinity, Chriſts mind. But we may well wave that interpretation. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> is properly, <hi>word-ſervice,</hi> or a <hi>ſervice agreeable to the word,</hi> from <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. And ſo the ſame word is uſed, 1 <hi>Pet.</hi> 2.2. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>the milke of the word,</hi> and therefore why not here, <hi>the ſervice that is agreeable to the word?</hi> and Chriſt may not require word-ſervice, if the word be not a rule.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="6"/> We might argue from the ſufficiency of the word; It teacheth us <hi>every good way,</hi> ſaith <hi>Salomon.</hi> It will <hi>make the man of God perfect for every good worke.</hi> And this is a good work, the chiefeſt worke of all, to have fellowſhip with God in his ordinances. The Scriptures inſtruct us (as they did <hi>Timothy</hi>)
+<pb n="18" facs="tcp:111280:12"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="19" facs="tcp:111280:12"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="20" facs="tcp:111280:13"/>
+               <hi>how to behave our ſelves in the houſe of God.</hi>
+               <note place="margin">1 Tim. 3.16.</note> If <hi>Timothies</hi> religi<g ref="char:EOLhyphen"/>on will ſerve us, he had no other Canon; what need we?</p>
+            <p>All confeſſe that Chriſt inſtituted part of this government, and why not all of it; being of the ſame nature? What he did he did perfectly: and the Church did retaine all, till car<g ref="char:EOLhyphen"/>nall eaſe, pride, and ambition wrought this ſtrange metamor<g ref="char:EOLhyphen"/>phoſis.</p>
+            <p>neither is that to be deſpiſed, <hi>Acts</hi> 20.20. The Apoſtle ſaith, He <hi>kept backe nothing that was profitable.</hi> If there had needed any more, he would not have ſuppreſſed it. And <hi>verſe</hi> 27. <hi>he declared the whole counſell of God.</hi>
+            </p>
+            <p>When we ſay, Chriſt hath left his government for us in the Scriptures, we meane the whole Scripture, commands, and examples; for both are binding rules to us. 2. It is in Scripture either in plaine words, or elſe in good and ſuffici-conſequence: either actually, and in the letter, or elſe poten<g ref="char:EOLhyphen"/>tially, and by cleare and good deduction: Although it be not laid downe in one continued methodicall diſcourſe, but ſcattered in ſmall peeces here and there in Scripture: and al<g ref="char:EOLhyphen"/>though not obvious to a ſlight and ſuperficiall view of the letter, but lies deeply and cloſely couched: yet it will doubt<g ref="char:EOLhyphen"/>leſſe be found by thoſe whoſe faithfull labours God ſhall aſ<g ref="char:EOLhyphen"/>ſiſt in the ſearch of it.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Propoſ. </seg>4</label> Our next propoſition is: <hi>This government is perpetuall.</hi> We might take all Chriſts inſtitutions for perpetuall, and not ſeeke a particular reaſon to entaile them upon the Church: but there being a contrary opinion, we ſhall meete it with three or foure arguments.</p>
+            <list>
+               <item>1. From 1 <hi>Cor.</hi> 15.24. a place formerly quoted, and pro<g ref="char:EOLhyphen"/>ved to be meant of the externall Kingdome which Chriſt will render up to his Father. If the Kingdome ſtand, the po<g ref="char:EOLhyphen"/>licy will ſtand too.</item>
+               <item>2. <hi>Heb.</hi> 12.27. It is called a Kingdome that cannot be ſhaken. Chriſt hath ſet it upon ſuch firme pillars as never to be removed, till he come himſelfe to pull it downe by erect<g ref="char:EOLhyphen"/>ing a full Kingdome of glory.</item>
+               <item>3. <hi>Eph.</hi> 4.12. <hi>&amp;c.</hi> Thoſe officers are to continue till we all come in the unity of the faith, &amp;c. That which the Apo<g ref="char:EOLhyphen"/>ſtle
+<pb n="21" facs="tcp:111280:13"/>ſaid of the Sacrament of the Supper, is true of all the reſt, It is to keep <hi>in remembrance his death till he come.</hi>
+               </item>
+            </list>
+            <p>Beſide Scripture there is reaſon for it.</p>
+            <p>It is a <hi>Law,</hi> a <hi>Commandement,</hi> called ſo in many places: the word doth perpetuate it. See 1 <hi>Tim.</hi> 6.14. becauſe a Com<g ref="char:EOLhyphen"/>mandement, therefore to be kept till the appearing of Je<g ref="char:EOLhyphen"/>ſus Chriſt. What is made a Law, no authority can pull it downe but that which ſets it up. Therefore the Apoſtle backs the command with Chriſts regall power, <hi>Who is the onely Potentate, King of Kings, &amp;c.</hi> a ſufficient reaſon to prove his Lawes unalterable, becauſe made by the ſupreame and higheſt power: and therefore they are to ſtand till a greater then Chriſt come.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> This government was univerſall in reſpect of places, and why not in reſpect of times? In all Churches thus I ordaine,<note place="margin">1 Cor 4.17. &amp; 7.17.</note> thus I teach. If the diſpoſition of the ſubject had required a different rule, the Apoſtle was very barren to ty all up to one: or the Church of <hi>Corinth</hi> abounding with variety of gifts, and ſo richly furniſhed, might take it ill that ſhee ſhould be kept in the ſame bounds with others, and have no ſtate and honour more then the pooreſt Church.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="3"/> The government preſcribed in the word is ordinary, and therefore perpetuall: for there is nothing that is in the word that can be thought temporall, but that which was occaſio<g ref="char:EOLhyphen"/>nall and extraordinary; but the government preſcribed by Chriſt is ordinary. Things ordinary and extraordinary are found to differ.</p>
+            <p n="1">1 In their gifts. Ordinary officers have ordinary endow<g ref="char:EOLhyphen"/>ments, ſuch as are of perpetuall uſe in the Church, as the gifts of Paſtors and Teachers, <hi>To looke to the flocke, to be apt to teach, to be wiſe, &amp;c.</hi> but the gifts of Apoſtles were extraordi<g ref="char:EOLhyphen"/>nary, the gift of tongues, miracles, &amp;c.</p>
+            <p n="2">2. In their imployments and ends. Paſtors and Teachers are to <hi>edifie the Church, to build us up in faith,</hi> a worke of per<g ref="char:EOLhyphen"/>petuall uſe, and cannot decay in the Church;<note place="margin">Eph. 2.20.</note> but to be <hi>the foundation,</hi> to lye in the bottome of the building, and to be a <hi>Maſter-builder,</hi> this proper to extraordinary officers,<note place="margin">1 Cor. 3.10.</note> 
+               <hi>viz.</hi> Apoſtles. It is not hard to ſhew; what is ordinary and neceſ<g ref="char:EOLhyphen"/>ſary,
+<pb n="22" facs="tcp:111280:14"/>and what occaſionall and accidentall.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Object. </seg>
+               </label> That which is urged againſt the perpetuity of this policy, is weake; That it was fit for the times in which it was pra<g ref="char:EOLhyphen"/>ctiſed, being times of perſecution: but when the Church hath peace, another government may be more profitable and uſefull.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label> For anſwer to it, know that this is a project that the Scrip<g ref="char:EOLhyphen"/>ture is ignorant of, and affords no colour for it; and that is reaſon ſufficient to reject it. But they that know what our ſoules are, know that we have alway need of ſuch offices and ſuch miniſtrations as are in the word commanded. And on the contrary, the government now pleaded for, would have better ſuited with times of perſecution.</p>
+            <p n="1">1. For one Prieſt to ſerve two congregations, three if need be, is it not better for a poore perſecuted Church, then to maintaine Paſtors, Teachers, Elders, and every one to have double honour, maintenance or allowance? Sure <hi>Paul</hi> knew not this way of ſaving charges. Why ſhould he that deſired to free the Church from burthens, and did labour with his owne hands, to doe it, not ſuffer this new way of Curats?</p>
+            <p n="2">2. For officers to diſpatch buſineſſe privately in a cham<g ref="char:EOLhyphen"/>ber, is ſafer a great deale in bad times then to make a publike buſineſſe of it! Why did the Apoſtle ordaine all Church af<g ref="char:EOLhyphen"/>faires to be publike?<note place="margin">1 Cor. 4.5.</note> When you come together, caſt out that perſon.</p>
+            <p>And that which they would thruſt out, is fitter for times of proſperity.</p>
+            <p n="1">1. It is a ſtrict and exact way, cloſe bands, that give not that liberty that the other doth, and therefore ſitteſt for ſuch times wherein men are apt to take the greateſt liberty. Per<g ref="char:EOLhyphen"/>ſecution is a diſcipline it ſelfe, and then men may be left more to themſelves: but profaneneſſe is apt to grow in times of pence, and then it is no wiſdome to have the remedy (diſci<g ref="char:EOLhyphen"/>pline) 20. or 40. miles abſent.</p>
+            <p n="2">2. Mercies ſhould make us better, not worſe. If God gives Kings to be nurſing Fathers, ſhall the Church grow wanton upon ſuch bounty? ſhall ſo happy a bleſſing make
+<pb n="23" facs="tcp:111280:14"/>us worſe? We have a Chriſtian King, ſhall we therefore grow Antichriſtian? Men ſay, perſecution was an occaſion of the Apoſtles ſetting up ſuch a diſcipline, we are ſure perſecution hath kept it out.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Object. </seg>
+               </label> But men object, That Church-government ought to hold good proportion with the civill; and epiſcopall govern<g ref="char:EOLhyphen"/>ment ſuits beſt with a Monarchy, and that which men would ground upon the word is dangerous to Monarchies.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label> If it be prejudiciall to Monarchy, it is ſtrange the Apoſtles would practiſe it under perſecuting Monarchs. It was no wiſdome to runne themſelves into a premunire, to endanger the ſplitting of the Goſpel in every place by giving juſt occa<g ref="char:EOLhyphen"/>ſion to Princes of perſecution. Or indeed they were not perſecutors in oppoſing the Goſpel, but juſt oppoſers of ene<g ref="char:EOLhyphen"/>mies to their ſtate; neither were the Apoſtles Martyrs, but ſeditious perſons, that brought in things dangerous to <hi>Cae<g ref="char:EOLhyphen"/>ſar,</hi> and ſo died juſtly. But this is an old tricke of the Devill, to ſet Chriſt and <hi>Caeſar</hi> at difference; a plot as old as abo<g ref="char:EOLhyphen"/>minable, and ſo groſſe that a man may eaſily diſcerne it. Not to ſpeake any thing of the difference betweene corporals and ſpirituals, betweene <hi>Moſes</hi> and <hi>Aaron,</hi> King and Prieſt, of ſo wide a diſtance that they cannot interfere, nor one endanger another. States have ſtood intire without Church-govern<g ref="char:EOLhyphen"/>ment, yea without Chriſtian Religion: and the government of Chriſt hath ſtood in all States without moleſtation. Reli<g ref="char:EOLhyphen"/>gion confirmes what it finds in a Kingdome, meddles with nothing that is civill to alter it. It makes princes better ru<g ref="char:EOLhyphen"/>lers, and people better ſubjects, but changeth neither. The government endangers Princes honours and royalties no more then mens private eſtates. It requires nothing of Prin<g ref="char:EOLhyphen"/>ces but protection and favour, that they be nurſing Fathers, and payes them againe in a more firme loyalty and zeale for their honour and ſafety.</p>
+            <p>Can theſe men make good their charge, that ever Prince was moleſted in his government by the Diſciplinarians? Did they ever conſpire their ruine, combine with their ene<g ref="char:EOLhyphen"/>mies, lift up their heeles againſt them or their power over them, as the Epiſcopacy hath? Or hath not the diſcipline
+<pb n="24" facs="tcp:111280:15"/>beene faithfull to heatheniſh Princes,<note place="margin">having the chef throw a bowl of rabbit droppings at your headom. 13.1</note> and will it prejudice Chriſtian? Or doe we thinke that Jeſus Chriſt, by whom Kings raigne, will inſtitute or allow of a government that ſhall by the remoteſt conſequence undermine it? Or, Chriſt being to carry the Goſpell round about the World, would he ſo compoſe the government of it, that he ſhould juſtle downe the civill powers, or claſh with them? Theſe are odious aſperſions; and they that charge Chriſts government with this, are guilty of it themſelves. It is eaſily proved they have beene, and it is dangerous they will ever be en<g ref="char:EOLhyphen"/>croachers upon Princes rights. If any government endan<g ref="char:EOLhyphen"/>ger Monarchy, 'tis Monarchicall. The Ivy that pretends to uphold the Tree, ſucks away the ſap of it: they that dare challenge ſo much intereſt in Thrones as to ſupport them, may come to challenge the diſpoſing of them. By ſuch aſcents, the Pope roſe ſo high as now to come betweene heaven and Kings. Kingdomes depending loſe part of their glory. The Throne is eſtabliſhed by God and Righteouſ<g ref="char:EOLhyphen"/>neſſe: and needes not the helpe of a faction to ſupport it. But theſe weake arguments doe put jealouſies not reaſon into Princes heads; when it ſhall be conſidered that it is Chriſts, theſe aſperſions will fall off, and his inſtitution will ſtand bright, cleare, and perpetuall. Thus much of the fourth Propoſition.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Propoſ. </seg>5</label> The fifth is this, Chriſt hath ſo eſtabliſhed his govern<g ref="char:EOLhyphen"/>ment in all the parts of it, that no man may alter either part or whole, none may adde to it or take from it.</p>
+            <p n="1">1. For any man to doe ſo, were directly againſt the com<g ref="char:EOLhyphen"/>mand of God. <hi>Deut.</hi> 4.2. and 12.32. He doth not ſay, you ſhall adde nothing to the Leviticall Law: but, you ſhall adde nothing to that which is commanded: ſo that the rea<g ref="char:EOLhyphen"/>ſon is the ſame now, that it was then: and therefore confir<g ref="char:EOLhyphen"/>med <hi>Rev.</hi> 22.18, 19. as a cloſe of the Bible. For though that be particularly and eſpecially meant of that booke, yet the reaſon of it concernes the whole Scripture.</p>
+            <p n="2">2. Contrary to the ſecond Commandement, that forbids all feigned worſhip and manners of worſhip.</p>
+            <p n="3">3. Contrary to <hi>Coloſ.</hi> 2.18. which forbids all voluntary or wil-worſhip.</p>
+            <pb n="25" facs="tcp:111280:15"/>
+            <p n="4">4. The Church never had any power given unto her to command any thing in the Church. The higheſt power that ever was in the Church, was but <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>Miniſtry,</hi>
+               <note place="margin">Act. 1.17.</note> or <hi>Miniſtration:</hi> a ſtep above that is to Lord it, and will be in danger of that charge againſt Antichriſt, 2 <hi>Theſ.</hi> 2.4. to rule in the houſe of God. Reaſons there bee ſtrong ones.</p>
+            <p n="1">1. If the Church may alter one, ſhe may alter many; <label type="milestone">
+                  <seg type="milestoneunit">Reaſ. </seg>
+               </label> if ſhe may adde one, ſhe may adde twenty; and ſo a wide gap o<g ref="char:EOLhyphen"/>pened to all the ſuperſtitions of Rome. We may bow to an Altar, to a Crucifix, <hi>modo interponatur autoritas:</hi> let au<g ref="char:EOLhyphen"/>thority command it, it is no longer ſuperſtition.</p>
+            <p n="2">2. If the Church or any humane power may enjoyne any thing externall, 'tis to ſignifie ſomething internall: but of man can conferre ſuch a power to any thing to ſet forth the ſpirituall things of God. If he may appoint things to that end, he may ſeparate, conſecrate to that uſe, and conferre a power ſupernaturall, for naturally no artificiall thing or naturall thing can ſignifie divine grace. This is to intrench upon Gods peculiar, whoſe right onely it is to inſtitute ſignes, yea ſignes of this nature are Sacraments or Sacra<g ref="char:EOLhyphen"/>mentall.</p>
+            <p n="3">3. Men cannot invent any thing that can edifie; not affir<g ref="char:EOLhyphen"/>matively, and of its nature. In civills, things may be orde<g ref="char:EOLhyphen"/>red to edification <hi>negativè, i. e.</hi> ſo that edification be not hindered.</p>
+            <p n="4">4. Nor for ornament: The deſigne of God is cleane con<g ref="char:EOLhyphen"/>trary. God hath choſen the meane, baſe things,<note place="margin">1 Cor. 1.27, 28.</note> &amp;c. Upon this concluſion we give this reaſon, why the Lord made choyce of water and bread and wine to ſet forth the great mercy of Chriſt, becauſe they were ordinary, meane, low things, that men might not looke for great ſtate in his ſer<g ref="char:EOLhyphen"/>vice, but that his ſtate is ſpirituall: And therefore to erect a ſtately Prieſthood, Altars, Worſhip, 'tis a deſigne above Gods, and <hi>non honor, ſed dedecus, ſi vel praeter vel contra man<g ref="char:EOLhyphen"/>datum.</hi>
+               <note place="margin">
+                  <hi>Chryſoſt.</hi> quo<g ref="char:EOLhyphen"/>ted by Biſhop <hi>Andrewes</hi> on ſecond Com<g ref="char:EOLhyphen"/>mandement.</note> That which men boaſt of a ſtarre of reaſon to be ſuf<g ref="char:EOLhyphen"/>ficient to direct us in things externall; 'tis ſtrange to ſuppoſe that ſo poore a guide ſhould ſerve us in things of ſo high a nature. In thoſe things that are naturall or civill, reaſon ſan<g ref="char:EOLhyphen"/>ctified
+<pb n="26" facs="tcp:111280:16"/>may adviſe ſomething, but in things religious ſhe is to be excluded.</p>
+            <p>Conſider mans inſufficiency and unfitneſſe to ſuch a work, to invent any thing for the ſervice of God. Man is ignorant, not able to judge of ſpirituals: all imaginations that are in man of God beſide the rule are idolatrous; neither can we ſafely ſuffer a thought of God beſide what is written. Every thought changes the infinite nature of God into a compre<g ref="char:EOLhyphen"/>henſible frame and modell, and ſubjects God to mans capa<g ref="char:EOLhyphen"/>city: therefore we may not bring the object to our ſoules, but by revealed truths raiſe our hearts to the object. And man that brings a ſervice not commanded, thinkes of God above what is revealed. <hi>He that comes to God muſt beleeve, &amp;c.</hi> As we beleeve, ſo we come: that which is the rule of belee<g ref="char:EOLhyphen"/>ving, muſt be the patterne of ſervice. If God have revealed as much as we many know, he hath commanded what he will accept: he is not a God that can be preſcribed ſervice, nor is man able to doe it.</p>
+            <p>As man is unable, ſo an enemy. <hi>The wiſdome of the fleſh is enmity to God;</hi> and God hath no reaſon to truſt an enemy in moulding his ſervice. Beſides, the heart of man is crooked, falſe, deceitfull: and therefore why ſhould god put out his worſhip to man to make?</p>
+            <p>Conſider on the other ſide the high nature of Gods pub<g ref="char:EOLhyphen"/>like worſhip.</p>
+            <p n="1">1. It is to have communion with God, who is <hi>everlaſting burnings;</hi> and therefore it is no wiſdome to bring <hi>wood, <gap reason="illegible" resp="#UOM" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>y, ſtubble,</hi>
+               <note place="margin">Cor. 3.12.</note> 
+               <hi>&amp;c.</hi> or any combuſtible matter of humane inven<g ref="char:EOLhyphen"/>tions.</p>
+            <p n="2">2. It is publike communion, which is the greateſt ho<g ref="char:EOLhyphen"/>nour that God hath of man; and therefore not fit that man ſhould rule any thing in it.</p>
+            <p n="3">3. They are ſuch things as come out of Gods boſome. If he be a God, he is to be worſhiped according to his owne minde. They are a part of the morall Law poſitive, not na<g ref="char:EOLhyphen"/>turall. It is naturall there ſhould be externall worſhip; but what that is, is poſitive: for what reaſon can there be given for any part of Gods worſhip? What reaſon in nature
+<pb n="27" facs="tcp:111280:16"/>why Baptiſme or the Supper ſhould be a ſervice to God more then any thing elſe? onely he commands them.</p>
+            <p n="4">4. They are evangelicall, things that have their uſe about Chriſt; and Chriſt is purely ſupernaturall. There may be naturall Theology, but no naturall Chriſtianity: therefore reaſon hath little to doe in the things of Gods worſhip.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Object. </seg>
+               </label> But what power hath the Church? none at all?</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Sol. </seg>
+               </label> What ſhe hath may be ſeene in the names given the Church. Shee is called the <hi>pillar of truth.</hi>
+               <note place="margin">1 Tim. 3.15.</note> So that ſhee may as a pillar, hold up the truth in her practice, and maintaine and defend it from errours and profaneneſſe; ſhe may keepe the truth committed to her. Or ſhe hath the power of a Spouſe, to make knowne her Lords minde and ſee it perfor<g ref="char:EOLhyphen"/>med:<note place="margin">Epheſ. 5.23, 24</note> ſhee hath power of ſervice, diſpenſation, miniſtration, preſervation, &amp;c. but no lordly or legiſlative power.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Object. </seg>
+               </label> Are there not ſome things indifferent, and in them the Church hath power?</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Sol. </seg>
+               </label> Suppoſe the Church rightly conſtituted, and ſhe hath power: but that power is not in another; neither hath it power till the Church be a Church: the accident cannot ſubſiſt without the ſubject. But here will ariſe a double que<g ref="char:EOLhyphen"/>ſtion. 1. What things are indifferent. 2. What power the Church hath in them.</p>
+            <p>For anſwer to the firſt, we muſt know, that nothing that is religious is indifferent, but neceſſary, externals as well as internals; Religion requires the one as neceſſarily as the o<g ref="char:EOLhyphen"/>ther. Thoſe things that are indifferent and not religious, but in the power of the Church, may be reduced to three heads.</p>
+            <list>
+               <item>1. There be ſome naturall circumſtances which attend the worſhip of God, in reſpect of thoſe naturall actions im<g ref="char:EOLhyphen"/>ployed in it, as ſpeech, motion, which require circumſtances of time, place; which the Church may order.</item>
+               <item>2. Civill circumſtances. The congregation being a civill thing, though applyed to a ſpirituall end, yet retaines its civility, and ſo hath ſutable circumſtances, as a diſtinct place for meeting, decency and comelineſſe in utenſils, table, cloth, cup, pulpit, and ſuch like, which are in the power of the Church. Theſe are more ordinary: but there are ſome<g ref="char:EOLhyphen"/>things</item>
+               <pb n="28" facs="tcp:111280:17"/>
+               <item>3. Extraordinary, ſuch as concerne not the things them<g ref="char:EOLhyphen"/>ſelves, but ſomething without, <hi>viz.</hi> the conſciences of the weake, which occaſioned ſome temporary commands in the Church, as forbearing of bloud, &amp;c. In theſe things the Church hath a power, but what? not perpetuall, abſolute, unlimited, but occaſionall, reſpective, and bounded by gene<g ref="char:EOLhyphen"/>rall Lawes, and that during the occaſion offered; which be<g ref="char:EOLhyphen"/>ing removed things ought to ceaſe, and the Church is free againe. Which power is not ſo much of making Lawes, but of wiſe inſtructing of us how to keepe Lawes already made.</item>
+            </list>
+            <p>But how ſhall we diſcerne between things religious and ci<g ref="char:EOLhyphen"/>vill? Their nature and uſe will diſcry them: take in ſtead of many, theſe three rules.</p>
+            <list>
+               <item>1. Such things as are not competent to civill ſocieties, nor ordinarily uſed in them, but of particular uſe in Religi<g ref="char:EOLhyphen"/>on, are religious.</item>
+               <item>2. Such as have beene religious and appointed by God, or were religious if God ſhould appoint them, are religious, as veſtments in worſhip, orders of Prieſthood and degrees, ſignes of internall and ſpirituall things: theſe are religious.</item>
+               <item>3. Such as doe that which religious things doe, that which God commands his ordinances to doe, <hi>viz, teach, edi<g ref="char:EOLhyphen"/>fie, inſtruct, confirme in grace, &amp;c.</hi> 
+                  <label type="milestone">
+                     <seg type="milestoneunit">Object. </seg>
+                  </label> theſe are religions and onely in Gods power to aſſigne them.</item>
+            </list>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label> The Apoſtle ſaith, Let all things be done decently and in or<g ref="char:EOLhyphen"/>der; doth not that give authority to ordaine ceremonies?</p>
+            <p>A text much abuſed with ſmall reaſon. Know this text is a rule not of commanding, but of doing; a rule ſo generall; and appliable to all particulars, as it is laid downe to prevent further Lawes.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> Let all things be done <hi>in order,</hi> that is, not new things commanded, but things commanded rightly placed, ſo that one doth not daſh againſt another; and ſo order is oppoſite to confuſion ſpoken of before in the chapter.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> And <hi>decently,</hi> that is the comelineſſe of that order, a come<g ref="char:EOLhyphen"/>lines that ariſeth from things well ſet together, not borrowed or added beauty from other things, otherwais the Apoſtles did not ſerve the Lord comely that neglected theſe garbes, geſtures
+<pb n="29" facs="tcp:111280:17"/>and veſtures. Thus you have this point cleared to the for<g ref="char:EOLhyphen"/>mer, that no man hath power to alter, or adde, or diminiſh any thing in the worſhip of God.</p>
+            <p>I hope the point is ſufficiently proved; let us now ſee what uſe we may make of it.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Ʋſe </seg>1</label> Let it perſwade all men to imbrace this truth. I know it is a perſecuted truth, and hath been much malign'd: The pro<g ref="char:EOLhyphen"/>fane <hi>Eſaus</hi> have had an evill eye at this <hi>Jacob,</hi> and have coun<g ref="char:EOLhyphen"/>ted it a ſupplanter of their honours and great places, which is their bleſſing, and of their lordly priority, their birth<g ref="char:EOLhyphen"/>right. They have purſued it ſo cloſe that they have driven it almoſt out of the minds of good men. They have buried it under ſo much errour and malice that it is almoſt forgotten: which ſhewes their malice, that would not onely deprive us of our priviledges, but either corrupt or obliterate our Char<g ref="char:EOLhyphen"/>ter, and ſo prevent our claime for ever. But we hope, you that have freed them that ſuffered for truth, will not ſuffer truth it ſelfe to be impriſoned. It begins to ſpring forth, let it have favour and it will flouriſh. Give us leave to ſet it up in your ſoules. We know ſome have laboured to poyſon mens minds with falſe principles, and fill their heads with prejudices; but we hope you are ready to receive it with a love of it: I know it will be acceptable to a godly heart: Doe not thinke government is not in Scripture, becauſe you yet ſee it not: that were too much, to thinke our knowledge the rule of what is knowable, eſpecially in a thing ſo much ſup<g ref="char:EOLhyphen"/>preſſed: but whatever have preoccupied your underſtandings, give me leave to expect what <hi>Paul</hi> did of the <hi>Corinthians</hi> in the ſame caſe,<note place="margin">having the chef throw a bowl of rabbit droppings at your head Cor. 14.37.</note> 
+               <hi>He that is ſpirituall will acknowledge that theſe things are the Commandements of the Lord.</hi> To remove jealou<g ref="char:EOLhyphen"/>ſies, conſider,</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> That in al ages the Church hath her externall policy</p>
+            <p n="1">1. In Paradiſe, two Sacramentall Trees.</p>
+            <p n="2">2. In the infancy of the Church while the Church was within families, they had Sacrifices and a Prieſt-hood, the firſt-borne.</p>
+            <p n="3">3. When the Church grew to be a Common-wealth, and a ſubject fit for a Law of ordinances, he preſcribed them a
+<pb n="30" facs="tcp:111280:18"/>compl te forme: In the Wilderneſſe a worſhip apt, a moving Temple, a Tabet nacle; in <hi>Canaan</hi> a fixed houſe with holy things. This is <hi>
+                  <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> pupillaris, Gal.</hi> 4.2.</p>
+            <p n="4">4. There is <hi>aetas juvenilis,</hi> now under the Goſpel, <hi>no more children, Eph<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſ.</hi> 4.14. al though in compariſon of Heaven but a childhood;<note place="margin">
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Cor. 3.11.</note> and now we muſt expect a rule proportionable. Yea theſe muſt continue till the <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, that <hi>aetas conſtans,</hi> that full ſtature,<note place="margin">
+                  <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 19.</note> for the Church hath no old age: but in Heaven there will be an eternall externall glorious way of worſhip.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> If Chriſt had left humane reaſon his deputy to ordaine ceremonies in the Church, the condition of the Church un<g ref="char:EOLhyphen"/>der the Goſpel had beene more ſlaviſh then the Church under the Law; for one ceremony of mans is worſe then ten of Gods: man's darken and oppreſſe the truth, Gods illuſtrate and cleare it: but God hath promiſed our condition ſhould be more ingenuous, <hi>Gal.</hi> 4.7.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="3"/> Chriſt ſhould ſhew but little love to the dearely beloved of his ſoule to ſubiect her to humane inventions. The Phi<g ref="char:EOLhyphen"/>loſopher accounted the committing of a Common-wealth to man, a committing of it to beaſts, in regard of their paſ<g ref="char:EOLhyphen"/>ſions; but the committing of it to Lawes he eſteemed it a committing it to God and the Lawes. And ſhall we thinke that Chriſt will leave his Spouſe, his body, his beloved, his Church, where a Heathen would not leave a City?</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="4"/> If this were not true, that Chriſt had laid downe an exact rule, the Church would never know her load, never attaine a ſetled eſtate. For if there were a liberty for men to adde, it were a duty too; and ſo every High-prieſt in his time would be carefull to contribute ſomething to the Churches benefit; and ſo though Chriſt lay no other burthen,<note place="margin">Rev <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>4.</note> yet man might and would.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="5"/> If Chriſt have not preſcribed a forme, there will ariſe di<g ref="char:EOLhyphen"/>viſions, varieties, inconformities, for men would all ſet up their owne way: One Biſhop require one thing, and another forbid it: We ſhall never have peace ſo long as this <hi>Jezabel</hi> of humane power in ſpirituall things and her whoredomes remaine.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="6"/> If this be denied, Scripture will receive a blow: for Lawes
+<pb n="31" facs="tcp:111280:18"/>ſtand while they ſtand together; their power is in their au<g ref="char:EOLhyphen"/>thority, which is wounded when any one of them is viola<g ref="char:EOLhyphen"/>ted. And we ſee by experience that thoſe that deny the Scrip<g ref="char:EOLhyphen"/>tures to be the rule of diſcipline, have robd them of much of their authority in other things, if not of all: for they ſet their owne feet upon the neck of Scriptures, and will tie them to ſpeake, not their owne, but the Churches interpre<g ref="char:EOLhyphen"/>tation. Humane <hi>traditions</hi> will <hi>make the commandements of God of none effect:</hi>
+               <note place="margin">Matth. 15.6.</note> wherever they are planted and ſuffered, they will draw much honour from the holy Scriptures.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="7"/> The contrary opinion derogates from the wiſdome of Chriſt, that he ſhould not ſee what would be good for the Church, or if he ſaw it, that he ſhould not communicate it.</p>
+            <p>Many arguments more might we bring to induce you to beleeve it, let theſe be ſufficient: it is not a new truth, but a baniſhed one returned, and a truth of very great conſequence. Till Chriſt be reſtored to this his loſt dignity, hee will ne<g ref="char:EOLhyphen"/>ver riſe, nor Antichriſt fall.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Ʋſe </seg>2</label> Secondly, Chriſt hath left a rule for his worſhip in all things: here is worke for you that God hath called to the weeding of his garden, the Church, to <hi>pull up every plant that our heavenly Father hath not planted.</hi> I ſpeake to you whom God hath honoured with a power, and I hope bleſt with a will to doe it. I know you are not ignorant that there are many things yet ſtanding that never came into Gods mind to command his Church. It is an act of greateſt mercie to eaſe conſciences of theſe burdens, humane impoſitions in di<g ref="char:EOLhyphen"/>vine things. God doth now with you as with Saint <hi>John, Rev.</hi> 11.1. He puts a reed into your hand to meſure the Temple, he gives you the Scripture, a right meaſure; lay it to the worke, and <hi>the outer court,</hi> all humane inventions, <hi>caſt it out to the Gentiles,</hi> ſend them home to <hi>Rome</hi> from whence they came. What is not agreeable to this rule, reject it as ha<g ref="char:EOLhyphen"/>ving <hi>no light in it. Try all things,</hi>
+               <note place="margin">Iſa. 8.20.</note> 
+               <hi>and hold faſt that which is good, ſeparate the precious from the vile;</hi> and know in your worke the rule of innovations is not mans Law, but Gods: all ſubſtructions and additions to Chriſts rule, are truly in<g ref="char:EOLhyphen"/>novations; againſt them muſt your zeale burne. Doe as
+<pb n="32" facs="tcp:111280:19"/>
+               <hi>Hezekiah</hi> did,<note place="margin">2 Chron <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>9.</note> command the <hi>Levites to carry all the filth out of the Temple.</hi> Gather them that are faith full, and charge them as <hi>Conſtantinus Magnus</hi> did them of the <hi>Nicene</hi> Councell, <hi>De<g ref="char:EOLhyphen"/>poſit â omni hoſtili diſcordiâ, literarum divinitus inſpiratarum, &amp;c.</hi> that they ſhould reſolve all things in queſtion by the word of God. To move you to this conſider,</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> It exceedingly provokes the wrath of God to ſee humane inventions ſtand by his owne: he cannot endure Prieſts and Sacrifices not commanded. The idolatry threatned and ſo often puniſht in the Jewes, was but falſe rites of worſhip, which yet cauſed <hi>warre in their gates,</hi> ſold them into the hands of their enemies. Eſpecially he hates any new order of Prieſthood not enjoyned by himſelfe. It was no leſſe then death under the Law for any man to preſſe upon the Prieſts office without a call from God,<note place="margin">Num. 18.3.7.</note> and he hath executed what he threatned. Looke upon the examples of his diſpleaſure in <hi>Vazah</hi> and the men of <hi>Bethſhemeſh.</hi>
+               <note place="margin">1 Chron. 13 7.10.</note> And is not the office as ſacred now as ever? yea the miniſtration is more glorious, and therefore every intruſion more dangeous.<note place="margin">Num. 4.5.15.</note> Yea if parti<g ref="char:EOLhyphen"/>cular acts were ſo grievous and puniſhable, how much more a ſtanding office which was never ordained of God; and <hi>Aaron</hi> whoſe <hi>rodde never budded,</hi> that never had the <hi>
+                  <g ref="char:V">Ʋ</g>rim</hi> and <hi>Thum<g ref="char:EOLhyphen"/>mim</hi> put upon him? They have made a <hi>breach in Iſrael,</hi> and if they be not broken off we may feare God will make a greater.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> Things ſet up by man, ſet up <hi>another Goſpel,</hi> we ſee it by wofull experience in this Kingdome.<note place="margin">Ga<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. 1.</note> Hundreds of congre<g ref="char:EOLhyphen"/>gations are conſtituted by humane Lawes, and looke after no more for their Religion then Canon an Law. To be a Mi<g ref="char:EOLhyphen"/>niſter is required no more but obſervance of Canon, and to be a Chriſtian it is enough if he be regular, and obſerve the commands of the Church: neither will ever men look for a b<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tter till this be pull'd downe.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="3"/> They make men diſtaſt the pure ſtreames of divine truth. Humane inſtitutions are carnall, eaſie, ſuch as reach not the heart, and therefore much deſired and doted upon, being our owne, and ſutable to our natures. The power of Religion, the ſpirituall things of God are above us, and require more
+<pb n="33" facs="tcp:111280:19"/>of us to performe them, and therefore loathed by carnall hearts: therefore remove theſe as enemies of Chriſt, ſecretly drawing the hearts of the people from him. None ſuch op<g ref="char:EOLhyphen"/>poſers of Chriſt as theſe <hi>Samaritans,</hi> who have mixtures of their owne.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="4"/> They beget a thirſt after more of them. <hi>A little Leaven lea<g ref="char:EOLhyphen"/>veneth the whole lumpe:</hi>
+               <note place="margin">Cal. 5.9.</note> theſe left behind beget a deſire of eating of <hi>Romes fleſh-pots.</hi> You will never ſtop all paſſages of retur<g ref="char:EOLhyphen"/>ning to <hi>Rome</hi> but by pulling downe this bridge of humane impoſitions and ſuperſtructions yet ſtanding.</p>
+            <p>But a man may deale with them upon their owne claime. They have hitherto ſtood as things convenient, things in themſelves mutable and changeable; and as taken up upon good ground, ſo to be laid downe againe, (except preſcripti<g ref="char:EOLhyphen"/>on be a better) they never yet had any other title. And if they be added, by the ſame power, and upon the ſame reaſon, if they be found inconvenient and hurtfull, they may be remo<g ref="char:EOLhyphen"/>ved. Therefore if they be found inconvenient, I hope all men will yeeld them up: and that they are ſo appeares in that,</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> They are much diſtaſted by ſome, and that by the beſt; witneſſe the generall Petitions that come to your hands from all parts for their removall. By them and your owne experi<g ref="char:EOLhyphen"/>ence you ſee they doe as the <hi>ſin of Elies ſons,</hi> cauſe <hi>the Lords Sacrifice to be abhorred:</hi> they trouble and offend the conſcien<g ref="char:EOLhyphen"/>ces of many. And however others (cruell Butchers of ſoules) are pitileſſe to mens conſciences, you have learn'd with <hi>Paul,</hi> the high price of ſoules for <hi>which Chriſt died,</hi> and cannot but count one of thoſe thouſands of ſoules that are offended, of more worth then all that traſh.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> They are as much ador'd by ſome, as diſtaſted by others, made very <hi>Idols:</hi> never were there groſſer Idols in <hi>Rome</hi> then theſe things as they are uſed by ſome; and what is abuſed to ſuperſtition, ought not to be retained. The <hi>braſen Serpent,</hi> though Gods owne inſtitution, when made an Idoll, that could not warrant his ſtanding. They that are zealous of Gods glory will burne up what ever doth rob God of his honour. Croſſes and Crucifixes not more abuſed by Papiſts, then ſome things now ſtanding are abuſed by popiſhly affe<g ref="char:EOLhyphen"/>cted Proteſtants.</p>
+            <pb n="34" facs="tcp:111280:20"/>
+            <p>Upon theſe different affections what diviſions will neceſ<g ref="char:EOLhyphen"/>ſarily ariſe, if not prevented, yea what perſecutions? We have felt the heat of their rage already: <hi>the bondwoman and her ſeed have perſecuted the free woman and her ſeed,</hi> and worſe <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ill be if they be not prevented.</p>
+            <p>But if we ſhould take away all, we ſhould caſt a blemiſh upon antiquity, and deſpiſe our Anceſtours, holy Martyrs, that liv'd and died in a love and liking of thoſe things we oppoſe.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Sol. </seg>
+               </label> We injure them not, but give them all honour due to their learning and piety. To looke no further then the reformers of our Church, we ſay, that what might be then tolerable, may be now ſuperſtitious and idolatrous. <hi>Paul</hi> circumciſed <hi>Timothy,</hi> and yet after oppoſed it. And they that did at firſt tolerate theſe things, had they lived to ſee them abuſed, and the power of Religion thruſt out by them, they would them<g ref="char:EOLhyphen"/>ſelves have throwne the firſt ſtone at them. Beſide, they have left their marke upon them, that they did but admit them for the preſent, and accounted the reformation imperfect be<g ref="char:EOLhyphen"/>cauſe of them.</p>
+            <p>But ſuppoſe they counted them good, yet the Apoſtle teacheth us to ſave the men and deſtroy <hi>their worke,</hi>
+               <note place="margin">1 Cor. 3.12.</note> 
+               <hi>if it be hay or ſtubble,</hi> and will not indure the fire. And we may without arrogance thinke the Goſpel hath gotten ſomething in theſe foureſcore yeeres, there is ſome more cleare light. They lived in the dawning of the day, we enjoy more light, that which ſucceeds us will be greater: and therefore it is no diſhonour to them for us to proceed in a further reformation.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Object. </seg>
+               </label> But corruptions flow not from the things themſelves, but from perſons abuſe of them: the things may be good, if you teach men to uſe them well.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Sol. </seg>
+               </label> The things themſelves are a corruption. All humane in<g ref="char:EOLhyphen"/>ventions have a malignity in them, and ſmell of the foun<g ref="char:EOLhyphen"/>taine from whence they come. <hi>The wiſdome of the fleſh is en<g ref="char:EOLhyphen"/>mity,</hi> and they cannot be otherwiſe that come of it. They will doe miſchiefe ſecretly or openly, i<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> not as Lions, yet as Foxes, many Lawes will not prevent evill to be done by them, one will make them ſure if it aboliſh them: better a De<g ref="char:EOLhyphen"/>vill be caſt out then tied up.</p>
+            <pb n="35" facs="tcp:111280:20"/>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Object. </seg>
+               </label> Another government may degenerate.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Sol. </seg>
+               </label> Chriſts government hath no corruption in it, no <hi>hidden things of diſhoneſty,</hi>
+               <note place="margin">2 Cor. 4.2.</note> no falſe end<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, no deceitfull <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> come, it is ſound. Men may ſwarve much under it, but hardly funda<g ref="char:EOLhyphen"/>mentally decay till government be neglected. <hi>It is the pattern of wholſome words,</hi> it hath an active ſanity in it,<note place="margin">2 Tim. 1.13.</note> and if men decline they will not endure it. There is a great difference be<g ref="char:EOLhyphen"/>tweene humane Lawes and divi<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>mans Lawes muſt be kept, the Magiſtrate is <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, but Gods Lawes will keepe the men.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Object. </seg>
+               </label> To remove all not commanded would indanger the ſha<g ref="char:EOLhyphen"/>king of the whole frame of Religion.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Sol. </seg>
+               </label> Feare not that: thoſe things that are to be removed, Re<g ref="char:EOLhyphen"/>ligion will ſtand the ſurer without them: they have little Re<g ref="char:EOLhyphen"/>ligion in them, they are onely riotous branches, growne out of the abundance of worldly policy and carnall affection; the Church may ſpare them as well as the body ill humours. They are heterogeneous to the truth, and like the clay in the feete of <hi>Nebuchadnezzars</hi> image, it would not cleave to the iron: The <hi>ſpirit of judgement and burning</hi> that the Lord hath given to you, will ſeparate the droſſe without dammage to the gold.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Object. </seg>
+               </label> But we ſhall ſhake our owne Lawes by it, and make a great breach in them.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Sol. </seg>
+               </label> It is good to maintaine humane right, but much more Gods. The Apoſtle argues ſo, <hi>Gal.</hi> 3.15. if a man may not adde to a mans Teſtament, much leſſe to Gods. It is good to maintaine our Lawes againſt all but God, who muſt keep us and our Lawes too. The beſt way to keep a State is to purge it from ſacriledge: if there be any thing of Gods wound up with them, it may juſtly cauſe God to pick a quar<g ref="char:EOLhyphen"/>rell with the whole. Keep Gods Lawes and God will keepe yours.</p>
+            <p>Obſerve this, all arguments for them are politicall, and they are but weake in divine things; therefore let them not move you to retaine any thing againſt Chriſts inſtitution.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Ʋſe </seg>3</label> If there be a cure to be wrought on the Church, heare ano<g ref="char:EOLhyphen"/>ther reaſonable motion, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>,<note place="margin">Ariſt. polis.</note> to cure ac<g ref="char:EOLhyphen"/>cording
+<pb n="36" facs="tcp:111280:21"/>to the principles of Art, the word. Methinks Chri<g ref="char:EOLhyphen"/>ſtians ſhould make no doubt of this. <hi>Search the Scriptures,</hi> is alway neceſſary, but then eſpecially when we are at a loſſe and want truth, which is our condition. Here all good re<g ref="char:EOLhyphen"/>formations have begun, <hi>Hezekiah's, Joſeah's, Nehemiah's.</hi> Send to the Prieſts and Levites, and let them produce the Law. Therefore if you want a rule, we ſend you <hi>to the Law and Te<g ref="char:EOLhyphen"/>ſtimonies.</hi> Now we are to enquire,<note place="margin">Iſa. 8.</note> 
+               <hi>non quid aliitante nos, ſed quid <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aeleſtia teſtimonia quae a<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>te omnes.</hi> The Phariſees will flie to traditions,<note place="margin">Cyp<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ian.</note> the Samaritans to their Fathers, but the voice of God is, to the Scriptures. When the Church of <hi>Corinth</hi> was corrupted,<note place="margin">Joh. 4.</note> 
+               <hi>Paul</hi> leads them to the inſtitution of Chriſt. The Churches of <hi>Aſia</hi> were lapſed,<note place="margin">1 Cor. 11.</note> they have no other phy<g ref="char:EOLhyphen"/>ſicke but, <hi>Hearken what the Spirit ſaith to the Churches.</hi> And there is nothing to be done now but ſearching the Scriptures and holding forth that light that is in them, and promoting the practiſe of it. The worke is great, let not God have cauſe to complaine when you have done,<note place="margin">Iſa. 30.1.</note> 
+               <hi>you looke counſell, but not of me.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Vſe </seg>4</label> Let me perſwade you a ſtep higher, to ſet up the govern<g ref="char:EOLhyphen"/>ment of Chriſt. It is a worke God hath called you to, and an honourable one, to build the Lords Temple, and to in<g ref="char:EOLhyphen"/>courage others in it to ſet him up an houſe. We have beene in <hi>Egypt;</hi> what God ſaid to <hi>Pharaoh</hi> as an enemy, he entreats you as friends, <hi>Let my people go<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> that they may ſerve me.</hi> Wee have ſerved our task-maſters, and they have ſerved their luſts of us; let us now ſerve the Lord. Set your ſelves cheerefully to the worke, you will meet with difficulties, but the reward will anſwer your pains.</p>
+            <p n="1">1. Doe this and you ſhall be aſſured of Gods perpetuall preſence. This is the mount in which he hath ſaid he would dwell for ever; and manifold are the promiſes that God hath annexed to it.</p>
+            <p n="2">2. By this means you will wither Popery at the roots. Set up this wall of diſcipline and it will keepe out Antichriſtian errours. Take Chriſts materials to build a Church with, and venemous beaſts will not endure to dwell in it.</p>
+            <p n="3">3. Truth and righteouſneſſe ſhall flouriſh: it is a fruitfull
+<pb n="37" facs="tcp:111280:21"/>ſoyle, <hi>they that are planted in the Courts of Gods houſe ſhall bring forth much fruit in their old age.</hi>
+            </p>
+            <p n="4">4. The way to Heaven will be more comfortable, eaſie, and ſhort. It hath much of Heaven in it.</p>
+            <p n="5">5. Hereby Chriſt will be honoured, the Church flouriſh, Religion increaſe and grow, when the Lords mountaine is exalted above every mountaine,<note place="margin">Iſa. 2.2.</note> then ſhall Nations flow unto it. It will have ſo much order, beauty, and glory in it, as it cannot but prevaile and win where ever it commeth.</p>
+            <p>Honoured Senatours, It hath beene often tendered to the Parliament and refus'd, but never ſo hopefully as now, when the Father of Spirits hath ſent in the ſpirits of the people to helpe you. It is Gods opportunity, and therefore embrace it, and your reformation will ſucceed as <hi>Hezekiahs. The Lord prepared the hearts of the people,</hi>
+               <note place="margin">2 Chron. 29. <hi>ult.</hi>
+               </note> 
+               <hi>and the worke was done ſuddenly.</hi> As the worke will be eaſie, ſo the guilt great if refuſed.</p>
+            <p>But never yet did any government challenge <hi>jus divinum</hi> but this, and therefore it is dangerous receiving it.</p>
+            <p>We ſhould not expect that any ſhould refuſe it for this reaſon, becauſe it is Chriſts. Shall we take the advantage of Chriſts abſence ſo as to diſclaime him, and ſay as the Citi<g ref="char:EOLhyphen"/>zens in his abſence, <hi>we will not have this man to rule over us:</hi> but <hi>our King comes,</hi> and then what ſhall be done to ſuch? The Heathens did all they could to challenge <hi>jus divinum;</hi> and to honour their Lawes, would pretend they came from the gods, and ſhall we refuſe that which comes in the <hi>name of the Lord?</hi> Rather at the firſt hearing of ſuch a mercy as a go<g ref="char:EOLhyphen"/>vernment of Chriſt, ſearch, ſeeke earneſtly for it. For every line of truth that comes from Chriſt is full of his bloud, eve<g ref="char:EOLhyphen"/>ry peece of this building is full of divine excellency, and therefore we ſhould count every duſt of it Gold and precious. What can any man ſay againſt the yoake of Chriſt? he ſaith himſelfe it is eaſie, and his burden is light. God offers a Ju<g ref="char:EOLhyphen"/>bile, and if we love not freedome, it is juſt with God to boare our eares and keep us ſervants for ever.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Object. </seg>
+               </label> There be variety of opinions, there be diviſions amongſt men that challenge a government of Chriſts inſtitution.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Sol. </seg>
+               </label> It is no wonder, conſidering the darkneſſe that we have
+<pb n="38" facs="tcp:111280:22"/>beene kept in. God brings back our captivity as the rivers of the South, and we are as men that dream, our thoughts an<g ref="char:EOLhyphen"/>gles and <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> counter. We have not yet had leave to talke of diſcipline. When we have more light, and may ſee each o<g ref="char:EOLhyphen"/>thers faces and thoughts, we doubt not but we ſhall conſent quickly. I dare prophecy as <hi>Paul, Phil.</hi> 3.15.16. <hi>If any man be otherwiſe minded, the Lord ſhall reveale even this unto him.</hi> There is no argument can be good againſt this truth, and therefore practiſe it. I dare not charge you to doe it, but a greater hath, <hi>Paul,</hi> and in him Jeſus Chriſt, 1 <hi>Tim.</hi> 6.14. It concernes all that profeſſe Chriſt to the end of the world, till Chriſts com<g ref="char:EOLhyphen"/>ming, and therefore you. The command he ſpeaks of is this of diſcipline eſpecially, and therefore not eaſily wiped off. <hi>I give thee charge in the ſight of God who quickeneth all things, and before Chriſt Jeſus, who before Pontius Pilate witneſſed a good con<g ref="char:EOLhyphen"/>feſſion, that thou keep this commandement without ſpot, unrebukable, untill the appearing of our Lord Jeſus Chriſt.</hi> I know the great affaires of Church and Common-weale lye heavy upon you, take the incouragement this text affords. For this part Chriſt offers <hi>his ſhoulders</hi> to beare the burden. God laid it there, you need doe no more but take care to lay it there tod. He hath beene <hi>wonderfull</hi> in bringing you together, and will doe wonders by you. If you ſee your ſelves to doe it, <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eare not want of adviſe, he will be your <hi>Counſellour;</hi> nor ſtrength to go through with your work, he will be a <hi>mighty God</hi> unto you; nor encouragement, he will be your <hi>everlaſting Father,</hi> and give you a <hi>place in his houſe better then of ſons and daughters.</hi> Chriſt will rule in peace, and oppreſſion ſhall be far from us; Chriſt ſhall be our King <hi>for ever:</hi> and <hi>happy are the people that are in ſuch a caſe.</hi> If you are not ſo zealous as to doe it, we are ſure <hi>the zeale of the Lord of Heaſts will performe this.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
